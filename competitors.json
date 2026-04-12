@@ -2564,17 +2564,6 @@
   },
   {
     "source": "watchkingdom",
-    "name": "2014 Zenith EI Primero Ref. 032040400 A001486",
-    "url": "https://watchkingdom.com.au/products/2014-zenith-ei-primero-ref-032040400-a001486",
-    "price_aud": 5000.0,
-    "year": 2014,
-    "reference": "032040400",
-    "availability": "available",
-    "details": "Brand: Zenith Reference: 032040400 Year: 2014 Dial: Sliver Bracelet: Crocodile Skin Material: Steel Diameter: 42mm Condition: Used, Full Set (Preowned)",
-    "notes": "full set; preowned; Condition: Used, Full Set (Preowned); Diameter: 42mm"
-  },
-  {
-    "source": "watchkingdom",
     "name": "2015 Audemars Piguet Royal Oak Jumbo Ref. 15202ST A001123",
     "url": "https://watchkingdom.com.au/products/2015-audemars-piguet-royal-oak-jumbo-ref-15202st-a001123",
     "price_aud": 89995.0,
@@ -3908,7 +3897,7 @@
     "source": "watchkingdom",
     "name": "2025 Rolex Daytona Rose Gold Black&Sundust Dial Ref. 126505 A001291",
     "url": "https://watchkingdom.com.au/products/2023-rolex-1",
-    "price_aud": 97995.0,
+    "price_aud": 92995.0,
     "year": 2025,
     "reference": "126505",
     "availability": "available",
@@ -4242,8 +4231,8 @@
     "year": 2025,
     "reference": "126610LV",
     "availability": "available",
-    "details": "Brand: Rolex Reference: 126610LV Year: 2025 Dial: Black Bracelet: Oyster Material: Steel Diameter: 41mm Condition: Mint, Full Set (Preowned)",
-    "notes": "full set; mint; preowned; Condition: Mint, Full Set (Preowned); Diameter: 41mm"
+    "details": "Brand: Rolex Reference: 126610LV Year: 2025 Dial: Black Bracelet: Oyster Material: Steel Diameter: 41mm Condition: Unworn, Full Set (Preowned)",
+    "notes": "full set; unworn; preowned; Condition: Unworn, Full Set (Preowned); Diameter: 41mm"
   },
   {
     "source": "watchkingdom",
@@ -5402,6 +5391,17 @@
   },
   {
     "source": "vintagewatchco",
+    "name": "Bamford Peanuts Hodinkee",
+    "url": "https://vintagewatchco.com.au/bamford-peanuts-hodinkee.html",
+    "price_aud": 5400.0,
+    "year": 2022,
+    "reference": "GSS2172",
+    "availability": "available",
+    "details": "Stock Code: 146836 | Location: Sydney | Brand: Bamford | Model: Bamford x Peanuts GMT for Hodinkee | Reference: GSS2172 | Metal: Stainless Steel | Movement: Sellita SW330-2 | Circa: 2022 | Box and Papers: Yes | Band: Brown Fabric | Case: 40mm | Dial: Black with \"Joe Preppy\" Snoopy | Bezel: Inner Rotating 24-Hour GMT | Glass: Sapphire crystal | Water Resistant: 100m | Condition: Excellent",
+    "notes": "box & papers; Condition: Excellent; Case: 40mm"
+  },
+  {
+    "source": "vintagewatchco",
     "name": "Beda\u2019a Angles Mecaline",
     "url": "https://vintagewatchco.com.au/beda-a-angles-mecaline.html",
     "price_aud": 1850.0,
@@ -5443,6 +5443,17 @@
     "availability": "available",
     "details": "Stock Code: 153645 | Location: Sydney | Brand: Benzinger | Model: Dragon | Metal: Stainless Steel | Movement: Manual-wind | Circa: 2022 | Box and Papers: Yes | Band: Leather | Clasp: Butterfly Deployant | Case: 40mm | Dial: White | Glass: Sapphire crystal | Water Resistant: 30m / 3 ATM | Condition: Excellent",
     "notes": "box & papers; Condition: Excellent; Case: 40mm"
+  },
+  {
+    "source": "vintagewatchco",
+    "name": "Breitling Aerospace",
+    "url": "https://vintagewatchco.com.au/breitling-aerospace-12438.html",
+    "price_aud": 2100.0,
+    "year": 1990,
+    "reference": "80360",
+    "availability": "available",
+    "details": "Stock Code: 153685 | Location: Sydney | Brand: Breitling | Model: Aerospace | Reference: 80360 | Metal: Titanium | Movement: Calibre 56 Ana-Digi Quartz | Circa: 1990 | Box and Papers: Yes | Band: Brown Leather | Clasp: Breitling Stainless Steel Tang Buckle | Case: 40mm | Dial: Grey | Bezel: Unidirectional Rotating \"Rider-Tab\" Bezel | Glass: Sapphire crystal | Water Resistant: 30m | Condition: Very Good",
+    "notes": "box & papers; Condition: Very Good; Case: 40mm"
   },
   {
     "source": "vintagewatchco",
@@ -5876,12 +5887,12 @@
   {
     "source": "vintagewatchco",
     "name": "Frederique Constant Highlife",
-    "url": "https://vintagewatchco.com.au/frederique-constant-highlife-8990.html",
-    "price_aud": 4650.0,
+    "url": "https://vintagewatchco.com.au/frederique-constant-highlife.html",
+    "price_aud": 3950.0,
     "year": null,
-    "reference": "303C4NH2B",
+    "reference": "303BBG3NH6B",
     "availability": "available",
-    "details": "Brand: Frederique Constant | Stock Code: 147849 | Location: Sydney | Model: Highlife Automatic COSC | Reference: FC-303C4NH2B | Case Size: 41mm | Movement: Automatic | Glass: Sapphire crystal",
+    "details": "Brand: Frederique Constant | Stock Code: 147847 | Location: Sydney | Model: HIGHLIFE AUTOMATIC COSC | Reference: FC-303BBG3NH6B | Case Size: 39mm | Movement: Automatic | Glass: Sapphire crystal",
     "notes": ""
   },
   {
@@ -5898,23 +5909,12 @@
   {
     "source": "vintagewatchco",
     "name": "Frederique Constant Highlife",
-    "url": "https://vintagewatchco.com.au/frederique-constant-highlife.html",
-    "price_aud": 3950.0,
+    "url": "https://vintagewatchco.com.au/frederique-constant-highlife-8990.html",
+    "price_aud": 4650.0,
     "year": null,
-    "reference": "303BBG3NH6B",
+    "reference": "303C4NH2B",
     "availability": "available",
-    "details": "Brand: Frederique Constant | Stock Code: 147847 | Location: Sydney | Model: HIGHLIFE AUTOMATIC COSC | Reference: FC-303BBG3NH6B | Case Size: 39mm | Movement: Automatic | Glass: Sapphire crystal",
-    "notes": ""
-  },
-  {
-    "source": "vintagewatchco",
-    "name": "Frederique Constant Slim Line Ladies",
-    "url": "https://vintagewatchco.com.au/frederique-constant-slim-line-ladies-8981.html",
-    "price_aud": 1595.0,
-    "year": null,
-    "reference": "206SW1S6",
-    "availability": "available",
-    "details": "Brand: Frederique Constant | Stock Code: 147838 | Location: Sydney | Model: CLASSSICS SLIMLINE LADIES MOONPHASE | Reference: FC-206SW1S6\u200b | Case Size: 30mm | Movement: Quartz | Glass: Sapphire crystal",
+    "details": "Brand: Frederique Constant | Stock Code: 147849 | Location: Sydney | Model: Highlife Automatic COSC | Reference: FC-303C4NH2B | Case Size: 41mm | Movement: Automatic | Glass: Sapphire crystal",
     "notes": ""
   },
   {
@@ -5926,6 +5926,17 @@
     "reference": "206MPND1S3B",
     "availability": "available",
     "details": "Brand: Frederique Constant | Stock Code: 147837 | Location: Sydney | Model: CLASSICS SLIMLINE LADIES MOONPHASE | Reference: FC-206MPND1S3B | Case Size: 30mm | Movement: Quartz | Glass: Sapphire crystal",
+    "notes": ""
+  },
+  {
+    "source": "vintagewatchco",
+    "name": "Frederique Constant Slim Line Ladies",
+    "url": "https://vintagewatchco.com.au/frederique-constant-slim-line-ladies-8981.html",
+    "price_aud": 1595.0,
+    "year": null,
+    "reference": "206SW1S6",
+    "availability": "available",
+    "details": "Brand: Frederique Constant | Stock Code: 147838 | Location: Sydney | Model: CLASSSICS SLIMLINE LADIES MOONPHASE | Reference: FC-206SW1S6\u200b | Case Size: 30mm | Movement: Quartz | Glass: Sapphire crystal",
     "notes": ""
   },
   {
@@ -6129,7 +6140,7 @@
   {
     "source": "vintagewatchco",
     "name": "Longines Avigation Pilot Watch",
-    "url": "https://vintagewatchco.com.au/longines-avignation-pilot-watch.html",
+    "url": "https://vintagewatchco.com.au/longines-avigation-pilot-watch.html",
     "price_aud": 2850.0,
     "year": 2002,
     "reference": "639.4",
@@ -6217,23 +6228,23 @@
   {
     "source": "vintagewatchco",
     "name": "Mancheront Pacer",
-    "url": "https://vintagewatchco.com.au/mancheront-pacer-8999.html",
-    "price_aud": 1100.0,
-    "year": null,
-    "reference": "77000CN",
-    "availability": "available",
-    "details": "Brand: Mancheront | Stock Code: 147861 | Location: Sydney | Model: Pacer | Reference: 77000CN | Case Size: 41mm | Movement: Automatic | Glass: Sapphire crystal | Water Resistant: 100m",
-    "notes": ""
-  },
-  {
-    "source": "vintagewatchco",
-    "name": "Mancheront Pacer",
     "url": "https://vintagewatchco.com.au/mancheront-pacer-8998.html",
     "price_aud": 1100.0,
     "year": null,
     "reference": "77000W",
     "availability": "available",
     "details": "Brand: Mancheront | Stock Code: 147860 | Location: Sydney | Model: Pacer | Reference: 77000W | Case Size: 41mm | Movement: Automatic | Glass: Sapphire crystal",
+    "notes": ""
+  },
+  {
+    "source": "vintagewatchco",
+    "name": "Mancheront Pacer",
+    "url": "https://vintagewatchco.com.au/mancheront-pacer-8999.html",
+    "price_aud": 1100.0,
+    "year": null,
+    "reference": "77000CN",
+    "availability": "available",
+    "details": "Brand: Mancheront | Stock Code: 147861 | Location: Sydney | Model: Pacer | Reference: 77000CN | Case Size: 41mm | Movement: Automatic | Glass: Sapphire crystal | Water Resistant: 100m",
     "notes": ""
   },
   {
@@ -6492,17 +6503,6 @@
   {
     "source": "vintagewatchco",
     "name": "ORIS AQUIS DATE",
-    "url": "https://vintagewatchco.com.au/oris-aquis-date-7727.html",
-    "price_aud": 6600.0,
-    "year": null,
-    "reference": "7769",
-    "availability": "available",
-    "details": "Stock Code: 145272 | Location: Sydney | Brand: Oris | Model: ORIS AQUIS Date Cal 400 | Reference: 400 7769 6357 | Metal: Steel and Gold | Movement: CALIBRE 400 | Circa: New | Case: 41.5mm | Glass: No | Water Resistant: 300m | Condition: New",
-    "notes": "Condition: New; Case: 41.5mm"
-  },
-  {
-    "source": "vintagewatchco",
-    "name": "ORIS AQUIS DATE",
     "url": "https://vintagewatchco.com.au/oris-aquis-date-7728.html",
     "price_aud": 6400.0,
     "year": null,
@@ -6510,6 +6510,17 @@
     "availability": "available",
     "details": "Stock Code: 145273 | Location: Sydney | Brand: Oris | Model: ORIS AQUIS Date | Reference: 400 7769 6355 | Metal: Steel and Gold | Movement: CALIBRE 400 | Circa: New | Case: 41.5mm | Glass: Sapphire crystal | Condition: No",
     "notes": "Condition: No; Case: 41.5mm"
+  },
+  {
+    "source": "vintagewatchco",
+    "name": "ORIS AQUIS DATE",
+    "url": "https://vintagewatchco.com.au/oris-aquis-date-7727.html",
+    "price_aud": 6600.0,
+    "year": null,
+    "reference": "7769",
+    "availability": "available",
+    "details": "Stock Code: 145272 | Location: Sydney | Brand: Oris | Model: ORIS AQUIS Date Cal 400 | Reference: 400 7769 6357 | Metal: Steel and Gold | Movement: CALIBRE 400 | Circa: New | Case: 41.5mm | Glass: No | Water Resistant: 300m | Condition: New",
+    "notes": "Condition: New; Case: 41.5mm"
   },
   {
     "source": "vintagewatchco",
@@ -6609,6 +6620,17 @@
     "availability": "available",
     "details": "Stock Code: 145090 | Location: Brisbane Tattersall's | Brand: Omega | Model: Pilots 1938 | Reference: 51613411005001 | Metal: Stainless Steel | Movement: Automatic 2200 | Circa: Modern | Box and Papers: box & unstamped cert | Band: Leather | Clasp: tang buckle | Case: 40mm | Dial: Mother-of-pearl | Bezel: Coin edge | Glass: Sapphire crystal | Water Resistant: 5 bar | Condition: Very Good",
     "notes": "box/papers: box & unstamped cert; Condition: Very Good; Case: 40mm"
+  },
+  {
+    "source": "vintagewatchco",
+    "name": "Omega Seamaster 300 Titanium/Tantalum/Sedna\u2122",
+    "url": "https://vintagewatchco.com.au/omega-seamaster-300-titanium-tantalum-sednatm-12425.html",
+    "price_aud": 19800.0,
+    "year": 2022,
+    "reference": "210.60.44.51.03.001",
+    "availability": "available",
+    "details": "Stock Code: 153670 | Location: Sydney | Brand: Omega | Model: Seamaster 300 | Reference: 210.60.44.51.03.001 | Metal: Titanium | Movement: Automatic Co-Axel | Circa: 2022 | Box and Papers: Yes | Band: Titanium + Tantalum + Sedna Gold | Clasp: Folding Clasp with Safety Buttons | Case: 44mm | Dial: Blue | Bezel: Rotating Divers' Bezel | Glass: Sapphire crystal | Water Resistant: 300m | Condition: Excellent",
+    "notes": "box & papers; Condition: Excellent; Case: 44mm"
   },
   {
     "source": "vintagewatchco",
@@ -6767,17 +6789,6 @@
   {
     "source": "vintagewatchco",
     "name": "Oris Aquis 41.5mm",
-    "url": "https://vintagewatchco.com.au/oris-aquis-41-5mm.html",
-    "price_aud": 3900.0,
-    "year": null,
-    "reference": "7787",
-    "availability": "available",
-    "details": "Stock Code: 149523 | Location: Sydney | Brand: Oris | Model: ORIS AQUIS Date | Reference: 733 7787 4154 | Metal: Stainless Steel | Movement: Automatic | Circa: New | Case: 41.5mm | Dial: Black Dial | Bezel: Ceramic Bezel | Glass: Sapphire crystal | Water Resistant: 300m | Condition: No",
-    "notes": "Condition: No; Case: 41.5mm"
-  },
-  {
-    "source": "vintagewatchco",
-    "name": "Oris Aquis 41.5mm",
     "url": "https://vintagewatchco.com.au/oris-aquis-41-5mm-10007.html",
     "price_aud": 3900.0,
     "year": null,
@@ -6785,6 +6796,17 @@
     "availability": "available",
     "details": "Stock Code: 149524 | Location: Sydney | Brand: Oris | Model: ORIS AQUIS Date | Reference: 733 7787 4157 | Metal: Stainless Steel | Movement: Automatic | Circa: New | Dial: Green Dial | Bezel: Ceramic Bezel | Glass: Sapphire crystal | Water Resistant: 300 | Condition: No",
     "notes": "Condition: No"
+  },
+  {
+    "source": "vintagewatchco",
+    "name": "Oris Aquis 41.5mm",
+    "url": "https://vintagewatchco.com.au/oris-aquis-41-5mm.html",
+    "price_aud": 3900.0,
+    "year": null,
+    "reference": "7787",
+    "availability": "available",
+    "details": "Stock Code: 149523 | Location: Sydney | Brand: Oris | Model: ORIS AQUIS Date | Reference: 733 7787 4154 | Metal: Stainless Steel | Movement: Automatic | Circa: New | Case: 41.5mm | Dial: Black Dial | Bezel: Ceramic Bezel | Glass: Sapphire crystal | Water Resistant: 300m | Condition: No",
+    "notes": "Condition: No; Case: 41.5mm"
   },
   {
     "source": "vintagewatchco",
@@ -7239,17 +7261,6 @@
   },
   {
     "source": "vintagewatchco",
-    "name": "Rolex Datejust 41mm",
-    "url": "https://vintagewatchco.com.au/rolex-datejust-41mm-11227.html",
-    "price_aud": 22800.0,
-    "year": 2025,
-    "reference": "126333",
-    "availability": "available",
-    "details": "Stock Code: 151628 | Location: Sydney | Brand: Rolex | Model: Datejust 41 | Reference: 126333 | Metal: Steel and Gold | Movement: 3235 Automatic | Circa: 2025 | Box and Papers: Yes | Band: Oyster Two-Tone | Clasp: Oysterclasp | Case: 41mm | Dial: Gloss Black | Bezel: Fluted 18ct Yellow Gold | Glass: Sapphire crystal | Water Resistant: 100m | Condition: Very Good",
-    "notes": "box & papers; Condition: Very Good; Case: 41mm"
-  },
-  {
-    "source": "vintagewatchco",
     "name": "Rolex Daytona 18ct YG",
     "url": "https://vintagewatchco.com.au/rolex-daytona-18ct-yg-9944.html",
     "price_aud": 36800.0,
@@ -7449,17 +7460,6 @@
   {
     "source": "vintagewatchco",
     "name": "SQUALE 'Big Arrow Skin Diver'",
-    "url": "https://vintagewatchco.com.au/squale-big-arrow-skin-diver.html",
-    "price_aud": 2050.0,
-    "year": null,
-    "reference": "SUPERSSABL.PBL",
-    "availability": "available",
-    "details": "Stock Code: 150082 | Location: Sydney | Brand: Squale | Model: Super Squale | Reference: SUPERSSABL.PBL | Metal: Stainless Steel | Movement: Automatic | Circa: No | Case: 38mm | Glass: Sapphire crystal | Condition: No",
-    "notes": "Condition: No; Case: 38mm"
-  },
-  {
-    "source": "vintagewatchco",
-    "name": "SQUALE 'Big Arrow Skin Diver'",
     "url": "https://vintagewatchco.com.au/squale-big-arrow-skin-diver-10323.html",
     "price_aud": 2250.0,
     "year": null,
@@ -7467,6 +7467,17 @@
     "availability": "available",
     "details": "Stock Code: 150086 | Location: Sydney | Brand: Squale | Model: Super Squale | Reference: SUPERSSAGR.AC | Metal: Stainless Steel | Circa: No | Case: 38MM | Glass: Sapphire crystal | Condition: No",
     "notes": "Condition: No; Case: 38MM"
+  },
+  {
+    "source": "vintagewatchco",
+    "name": "SQUALE 'Big Arrow Skin Diver'",
+    "url": "https://vintagewatchco.com.au/squale-big-arrow-skin-diver.html",
+    "price_aud": 2050.0,
+    "year": null,
+    "reference": "SUPERSSABL.PBL",
+    "availability": "available",
+    "details": "Stock Code: 150082 | Location: Sydney | Brand: Squale | Model: Super Squale | Reference: SUPERSSABL.PBL | Metal: Stainless Steel | Movement: Automatic | Circa: No | Case: 38mm | Glass: Sapphire crystal | Condition: No",
+    "notes": "Condition: No; Case: 38mm"
   },
   {
     "source": "vintagewatchco",
@@ -7636,23 +7647,23 @@
   {
     "source": "vintagewatchco",
     "name": "Seiko King Seiko",
-    "url": "https://vintagewatchco.com.au/seiko-king-seiko-9993.html",
-    "price_aud": 4650.0,
-    "year": null,
-    "reference": "SJE113J",
-    "availability": "available",
-    "details": "Stock Code: 149431 | Location: Brisbane Arcade | Brand: Seiko | Model: King Seiko | Reference: SJE113J | Metal: Stainless Steel | Movement: Automatic | Circa: New | Band: Steel Bracelet | Glass: Sapphire crystal | Water Resistant: 50 meters | Condition: New",
-    "notes": "Condition: New"
-  },
-  {
-    "source": "vintagewatchco",
-    "name": "Seiko King Seiko",
     "url": "https://vintagewatchco.com.au/seiko-king-seiko-9992.html",
     "price_aud": 4650.0,
     "year": null,
     "reference": "SJE111J",
     "availability": "available",
     "details": "Stock Code: 149430 | Location: Brisbane Arcade | Brand: Seiko | Model: King Seiko | Reference: SJE111J | Metal: Stainless Steel | Movement: Automatic | Circa: New | Band: Steel Bracelet | Glass: Sapphire crystal | Water Resistant: 50 meters | Condition: New",
+    "notes": "Condition: New"
+  },
+  {
+    "source": "vintagewatchco",
+    "name": "Seiko King Seiko",
+    "url": "https://vintagewatchco.com.au/seiko-king-seiko-9993.html",
+    "price_aud": 4650.0,
+    "year": null,
+    "reference": "SJE113J",
+    "availability": "available",
+    "details": "Stock Code: 149431 | Location: Brisbane Arcade | Brand: Seiko | Model: King Seiko | Reference: SJE113J | Metal: Stainless Steel | Movement: Automatic | Circa: New | Band: Steel Bracelet | Glass: Sapphire crystal | Water Resistant: 50 meters | Condition: New",
     "notes": "Condition: New"
   },
   {
@@ -7768,17 +7779,6 @@
   {
     "source": "vintagewatchco",
     "name": "Seiko Presage Classic",
-    "url": "https://vintagewatchco.com.au/seiko-presage-classic.html",
-    "price_aud": 1550.0,
-    "year": null,
-    "reference": "SPB478J1",
-    "availability": "available",
-    "details": "Stock Code: 150817 | Location: Brisbane and Sydney | Brand: Seiko | Model: Classic | Reference: SPB478J1 | Metal: Stainless Steel | Movement: Automatic | Circa: No | Glass: Sapphire crystal | Condition: No",
-    "notes": "Condition: No"
-  },
-  {
-    "source": "vintagewatchco",
-    "name": "Seiko Presage Classic",
     "url": "https://vintagewatchco.com.au/seiko-presage-classic-10750.html",
     "price_aud": 1850.0,
     "year": null,
@@ -7786,6 +7786,17 @@
     "availability": "available",
     "details": "Stock Code: 150818 | Location: Sydney | Brand: Seiko | Model: Presage Classic | Reference: SPB480J1 | Metal: Stainless Steel | Movement: Automatic | Circa: No | Case: 40.2mm | Glass: Sapphire crystal | Condition: No",
     "notes": "Condition: No; Case: 40.2mm"
+  },
+  {
+    "source": "vintagewatchco",
+    "name": "Seiko Presage Classic",
+    "url": "https://vintagewatchco.com.au/seiko-presage-classic.html",
+    "price_aud": 1550.0,
+    "year": null,
+    "reference": "SPB478J1",
+    "availability": "available",
+    "details": "Stock Code: 150817 | Location: Brisbane and Sydney | Brand: Seiko | Model: Classic | Reference: SPB478J1 | Metal: Stainless Steel | Movement: Automatic | Circa: No | Glass: Sapphire crystal | Condition: No",
+    "notes": "Condition: No"
   },
   {
     "source": "vintagewatchco",
@@ -8417,23 +8428,23 @@
   {
     "source": "vintagewatchco",
     "name": "Squale",
-    "url": "https://vintagewatchco.com.au/squale-8948.html",
-    "price_aud": 1400.0,
-    "year": null,
-    "reference": "1545SSBLC.HTB",
-    "availability": "available",
-    "details": "Stock Code: 147794 | Location: WatchTech - Brisbane | Brand: Squale | Model: 1545 | Reference: 1545SSBLC.HTB | Metal: Stainless Steel | Movement: Automatic | Circa: New | Box and Papers: Yes - Box and Papers | Band: Rubber | Clasp: Buckle | Case: 40mm | Dial: Blue | Bezel: Rotating divers bezel | Glass: Sapphire crystal | Water Resistant: 30m | Condition: New",
-    "notes": "box & papers; Condition: New; Case: 40mm"
-  },
-  {
-    "source": "vintagewatchco",
-    "name": "Squale",
     "url": "https://vintagewatchco.com.au/squale-8944.html",
     "price_aud": 1650.0,
     "year": null,
     "reference": "1545SSBK.AC",
     "availability": "available",
     "details": "Stock Code: 147791 | Location: Brisbane and Sydney | Brand: Squale | Model: 1545 | Reference: 1545SSBK.AC | Metal: Stainless Steel | Movement: Automatic | Circa: New | Box and Papers: Yes - Box and Papers | Band: Steel | Clasp: Folding | Case: 40mm | Dial: Black | Bezel: Rotating divers bezel | Glass: Sapphire crystal | Water Resistant: 30m | Condition: New",
+    "notes": "box & papers; Condition: New; Case: 40mm"
+  },
+  {
+    "source": "vintagewatchco",
+    "name": "Squale",
+    "url": "https://vintagewatchco.com.au/squale-8948.html",
+    "price_aud": 1400.0,
+    "year": null,
+    "reference": "1545SSBLC.HTB",
+    "availability": "available",
+    "details": "Stock Code: 147794 | Location: WatchTech - Brisbane | Brand: Squale | Model: 1545 | Reference: 1545SSBLC.HTB | Metal: Stainless Steel | Movement: Automatic | Circa: New | Box and Papers: Yes - Box and Papers | Band: Rubber | Clasp: Buckle | Case: 40mm | Dial: Blue | Bezel: Rotating divers bezel | Glass: Sapphire crystal | Water Resistant: 30m | Condition: New",
     "notes": "box & papers; Condition: New; Case: 40mm"
   },
   {
@@ -10865,17 +10876,6 @@
     "reference": "Oyster Perpetual Explorer II",
     "availability": "available",
     "details": "Brand: Rolex | Model: Oyster Perpetual Explorer II | Stock #: 4069 | Style: Casual Sport | Gender: Mens | Circa: Purchased new October 2016, factory sereviced April 2025 | Reference #: 216570 | Case Material: Stainless steel | Case Details: 42mm round | Strap/bracelet: Original stainless steel Oyster | Movement: Automatic GMT date cal.3187 | Dial: Original black | Hands: Original white gold Mercedes with orange GMT | Paraphernalia: Complete original box, book, warranty and factory service card, swing tags and service receipt set included | Grading: Carefully worn in its life, no signs of misuse, after the recent service and polish the appearance is as good as it will ever get again | Notes: Balance of 2 year factory service warranty",
-    "notes": ""
-  },
-  {
-    "source": "thewatchgallery",
-    "name": "Rolex ref 279138RBR 18k YG Auto Diamond Dial & Bezel Oyster Perpetual Datejust 28 on President w/Everything",
-    "url": "https://www.thewatchgallery.com.au/product/rolex-ref-279138rbr-18k-yg-auto-diamond-dial-bezel-oyster-perpetual-datejust-28-on-president-w-everything/",
-    "price_aud": 36.0,
-    "year": 2020,
-    "reference": "Oyster Perpetual Datejust 28",
-    "availability": "available",
-    "details": "Brand: Rolex | Model: Oyster Perpetual Datejust 28 | Stock #: 4659 | Style: Dress | Gender: Ladies | Circa: Purchased new November 2020 | Reference #: 279138RBR | Case Material: 18k yellow gold with factory diamond set bezel | Case Details: 28mm round | Strap/bracelet: Original 18k yellow gold President | Movement: Automatic date cal.2236 | Dial: Original gold diamond marker | Hands: Original yellow gold stick | Paraphernalia: Complete original box, book, warranty card and swing tags set included | Grading: Carefully and minimally worn in its life, hardly a mark is noticeable even under close inspection, a stunning example on offer | Notes: 12 month TWG warranty",
     "notes": ""
   },
   {
