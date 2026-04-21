@@ -56,17 +56,6 @@
   },
   {
     "source": "watchconnect",
-    "name": "Breitling Avenger II GMT A3239011 (On Hold)",
-    "url": "https://www.watchconnect.com.au/product/breitling-avenger-ii-gmt-a3239011/",
-    "price_aud": 3990.0,
-    "year": 2016,
-    "reference": "A3239011",
-    "availability": "available",
-    "details": "Breitling Avenger II GMT A3239011 | Brand: Breitling | Model: Avenger II GMT | Reference: A3239011 | Metal: Stainless Steel | Box: No | Papers: Yes | Circa: 2016 | Dial: Ivory | Bracelet: Stainless Steel | Case Size: 43MM | Movement: Automatic | Condition: Excellent",
-    "notes": "papers; Condition: Excellent; Case Size: 43MM"
-  },
-  {
-    "source": "watchconnect",
     "name": "Breitling Avenger Seawolf A17319101I1X2",
     "url": "https://www.watchconnect.com.au/product/breitling-avenger-seawolf-a17319101i1x2/",
     "price_aud": 4250.0,
@@ -108,6 +97,17 @@
     "availability": "available",
     "details": "Breitling Classic AVI Ref. 765 1964 Re-Edition AB09451A1B1X1 Limited Edition | Limited edition 164 pieces. | Brand: Breitling | Model: Avi | Reference: AB09451A1B1X1 | Metal: Stainless Steel | Box: Yes | Papers: Yes | Circa: 2023 | Dial: Black | Bracelet: Leather | Case Size: 41MM | Movement: Automatic | Condition: Near Mint",
     "notes": "near mint; box & papers; Condition: Near Mint; Case Size: 41MM"
+  },
+  {
+    "source": "watchconnect",
+    "name": "Breitling Colt 41 Automatic A17313",
+    "url": "https://www.watchconnect.com.au/product/breitling-colt-41-automatic-a17313/",
+    "price_aud": 3850.0,
+    "year": 2020,
+    "reference": "A1731310F1A1",
+    "availability": "available",
+    "details": "Breitling Colt 41MM Automatic A17313 | Brand: Breitling | Model: Colt Automatic | Reference: A1731310F1A1 | Metal: Stainless Steel | Box: Yes | Papers: Yes | Circa: 2020 | Dial: Grey | Bracelet: Stainless Steel | Case Size: 41MM | Movement: Automatic | Condition: Excellent",
+    "notes": "box & papers; Condition: Excellent; Case Size: 41MM"
   },
   {
     "source": "watchconnect",
@@ -727,17 +727,6 @@
   },
   {
     "source": "watchconnect",
-    "name": "IWC Big Pilot 7 Days IW500901",
-    "url": "https://www.watchconnect.com.au/product/iwc-big-pilot-7-days-iw500901/",
-    "price_aud": 7850.0,
-    "year": 2012,
-    "reference": "IW500901",
-    "availability": "available",
-    "details": "IWC Portuguese Automatic 7 Days IW500901 | Serviced by IWC in 2022 | Brand: IWC | Model: Big Pilot | Reference: IW500901 | Metal: Stainless Steel | Box: Yes | Papers: Yes | Circa: 2012 | Dial: Black | Bracelet: Leather | Case Size: 46MM | Movement: Automatic | Condition: Excellent",
-    "notes": "box & papers; Condition: Excellent; Case Size: 46MM"
-  },
-  {
-    "source": "watchconnect",
     "name": "IWC Pilot Chronograph IW377704",
     "url": "https://www.watchconnect.com.au/product/iwc-pilot-chronograph-iw377704/",
     "price_aud": 4990.0,
@@ -749,20 +738,9 @@
   },
   {
     "source": "watchconnect",
-    "name": "IWC Pilot Mark XX 2026 New",
-    "url": "https://www.watchconnect.com.au/product/iwc-pilot-mark-xx-2026-new/",
-    "price_aud": 7500.0,
-    "year": 2026,
-    "reference": "IW328202",
-    "availability": "available",
-    "details": "IWC Pilot Mark XX 2026 Full Set Sydney CBD Unworn | Brand: IWC | Model: Pilot | Reference: IW328202 | Metal: Stainless Steel | Box: Yes | Papers: Yes | Circa: 2026 | Dial: Black | Bracelet: Steel | Case Size: 40MM | Movement: Automatic | Condition: Unworn",
-    "notes": "full set; unworn; box & papers; Condition: Unworn; Case Size: 40MM"
-  },
-  {
-    "source": "watchconnect",
     "name": "IWC Pilot Top Gun Lake Tahoe",
     "url": "https://www.watchconnect.com.au/product/iwc-pilot-top-gun-lake-tahoe/",
-    "price_aud": 12990.0,
+    "price_aud": 12500.0,
     "year": 2023,
     "reference": "IW389105",
     "availability": "available",
@@ -773,7 +751,7 @@
     "source": "watchconnect",
     "name": "IWC Portugieser Yacht-Club",
     "url": "https://www.watchconnect.com.au/product/iwc-portugieser-yacht-club/",
-    "price_aud": 11500.0,
+    "price_aud": 10800.0,
     "year": 2019,
     "reference": "IW390507",
     "availability": "available",
@@ -958,28 +936,6 @@
   },
   {
     "source": "watchconnect",
-    "name": "Omega Seamaster Diver 300 Tantalum and Sedna Gold",
-    "url": "https://www.watchconnect.com.au/product/omega-seamaster-diver-300-tantalum-and-sedna-gold/",
-    "price_aud": 13500.0,
-    "year": 2022,
-    "reference": "210.60.42.20.99.001",
-    "availability": "available",
-    "details": "Omega Seamaster Diver 300 Tantalum and Sedna Gold | Tantalum and Sedna Gold on Titanium. $27,150 RRP | Brand: Omega | Model: Seamaster Diver 300 | Reference: 210.60.42.20.99.001 | Metal: Tantalum, Titanium and Sedna Gold | Box: Yes | Papers: Yes | Circa: 2022 | Dial: Grey | Bracelet: Tantalum, Titanium and Sedna Gold | Case Size: 42MM | Movement: Automatic | Condition: Excellent",
-    "notes": "box & papers; Condition: Excellent; Case Size: 42MM"
-  },
-  {
-    "source": "watchconnect",
-    "name": "Omega Seamaster Diver GMT Great White 2538.20.00",
-    "url": "https://www.watchconnect.com.au/product/omega-seamaster-diver-gmt-great-white-2538-20-00/",
-    "price_aud": 5750.0,
-    "year": 2000,
-    "reference": "2538.20.00",
-    "availability": "available",
-    "details": "Omega Seamaster Diver 300M 212.30.41.61.01.001 | Brand: Omega | Model: Seamaster GMT | Reference: 2538.20.00 | Metal: Stainless Steel | Box: No | Papers: No | Circa: 2000\u2019s | Dial: White | Bracelet: Stainless Steel | Case Size: 41MM | Movement: Automatic | Condition: Excellent",
-    "notes": "Condition: Excellent; Case Size: 41MM"
-  },
-  {
-    "source": "watchconnect",
     "name": "Omega Seamaster PloProf Summer Blue 2025",
     "url": "https://www.watchconnect.com.au/product/omega-seamaster-ploprof-summer-blue-2025/",
     "price_aud": 13990.0,
@@ -1054,6 +1010,17 @@
     "availability": "available",
     "details": "Omega Speedmaster Pilot Co-Axial 2025 Full Set Available Sydney CBD Near Mint Condition | Brand: Omega | Model: Speedmaster Pilot | Reference: 332.10.41.51.01.002 | Metal: Stainless Steel | Box: Yes | Papers: Yes | Circa: 2025 | Dial: Black | Bracelet: Stainless Steel | Case Size: 40.85MM | Movement: Automatic | Condition: Near Mint",
     "notes": "full set; mint condition; near mint; box & papers; Condition: Near Mint; Case Size: 40.85MM"
+  },
+  {
+    "source": "watchconnect",
+    "name": "Omega Speedmaster Professional Moonwatch Brown Dial",
+    "url": "https://www.watchconnect.com.au/product/omega-speedmaster-professional-moonwatch-brown-dial/",
+    "price_aud": 7500.0,
+    "year": 2005,
+    "reference": "311.30.42.30.13.001",
+    "availability": "available",
+    "details": "Omega Speedmaster Professional Moonwatch Brown Dial 311.30.42.30.13.001. Sydney, Australia. | Brand: Omega | Model: Speedmaster Professional | Reference: 311.30.42.30.13.001 | Metal: Stainless Steel | Box: Yes | Papers: Yes | Circa: 2005 | Dial: Brown | Bracelet: Stainless Steel | Case Size: 42MM | Movement: Manual Wind | Condition: Excellent",
+    "notes": "sydney, australia; box & papers; Condition: Excellent; Case Size: 42MM"
   },
   {
     "source": "watchconnect",
@@ -1134,6 +1101,17 @@
   },
   {
     "source": "watchconnect",
+    "name": "Panerai Luminor Marina Blu Profondo PAM01157",
+    "url": "https://www.watchconnect.com.au/product/panerai-luminor-marina-blu-profondo-pam01157/",
+    "price_aud": 8500.0,
+    "year": 2022,
+    "reference": "PAM01157",
+    "availability": "available",
+    "details": "Panerai Luminor Marina Blu Profondo PAM01157 | Brand: Panerai | Model: Luminor Marina | Reference: PAM01157 | Metal: Stainless Steel | Box: Yes | Papers: Yes | Circa: 2022 | Dial: Blue | Bracelet: Fabric + Rubber | Case Size: 44MM | Movement: Automatic | Condition: Near Mint",
+    "notes": "near mint; box & papers; Condition: Near Mint; Case Size: 44MM"
+  },
+  {
+    "source": "watchconnect",
     "name": "Panerai Luminor Marina PAM 00631 Blue Logo",
     "url": "https://www.watchconnect.com.au/product/panerai-luminor-marina-pam-00631-blue-logo/",
     "price_aud": 4990.0,
@@ -1175,17 +1153,6 @@
     "availability": "available",
     "details": "Parmigiani Fleurier Tonda PF Micro Rotor Golden Siena | Brand: Parmigiani Fleurier | Model: Tonda GT | Reference: PCF914-1020021-100182-EN | Metal: Stainless Steel | Box: Yes | Papers: Yes | Circa: 2024 | Dial: Salmon | Bracelet: Stainless Steel | Case Size: 40MM | Movement: Automatic | Condition: Excellent",
     "notes": "box & papers; Condition: Excellent; Case Size: 40MM"
-  },
-  {
-    "source": "watchconnect",
-    "name": "Patek Philippe 4429 Onyx Diamond",
-    "url": "https://www.watchconnect.com.au/product/patek-philippe-4429-onyx-diamond/",
-    "price_aud": 19990.0,
-    "year": 1990,
-    "reference": "4429",
-    "availability": "available",
-    "details": "Patek Philippe 4429 Onyx Diamond | Brand: Patek Philippe | Model: 4429 | Reference: 4429 | Metal: 18k Yellow Gold | Box: No | Papers: No | Circa: 1990\u2019s | Dial: Onyx Diamond | Bracelet: 18k Yellow Gold | Case Size: 24MM Approx. | Movement: Manual Winding | Condition: Excellent, serviced by independent in 2025",
-    "notes": "Condition: Excellent, serviced by independent in 2025; Case Size: 24MM Approx."
   },
   {
     "source": "watchconnect",
@@ -1365,17 +1332,6 @@
   },
   {
     "source": "watchconnect",
-    "name": "Rolex Datejust 36 Silver Index 116234",
-    "url": "https://www.watchconnect.com.au/product/rolex-datejust-36-silver-index-116234/",
-    "price_aud": 10500.0,
-    "year": 2007,
-    "reference": "116234",
-    "availability": "available",
-    "details": "Rolex Datejust 36 Silver Index 116234 | Brand: Rolex | Model: Datejust | Reference: 116234 | Metal: Stainless Steel | Box: No | Papers: No | Circa: 2007 | Dial: Silver Index | Bracelet: Stainless Steel | Case Size: 36MM | Movement: Automatic | Condition: Good",
-    "notes": "Condition: Good; Case Size: 36MM"
-  },
-  {
-    "source": "watchconnect",
     "name": "Rolex Datejust 36 Sunbeam Dial 116200",
     "url": "https://www.watchconnect.com.au/product/rolex-datejust-36-sunbeam-dial-116200/",
     "price_aud": 9990.0,
@@ -1464,24 +1420,13 @@
   },
   {
     "source": "watchconnect",
-    "name": "Rolex Day-Date II 41 Black Wave Dial 218238 (On Hold)",
-    "url": "https://www.watchconnect.com.au/product/rolex-day-date-ii-41-black-wave-dial-218238/",
-    "price_aud": 52880.0,
-    "year": 2011,
-    "reference": "218238",
-    "availability": "available",
-    "details": "Rolex Day-Date II 41mm Fluted presidential Black Wave Dial 218238 excellent condition. | Brand: Rolex | Model: Day-Date II | Reference: 218238 | Metal: Yellow Gold | Box: Yes | Papers: Yes + RSC Service | Circa: 2011 | Dial: Yellow Gold | Bracelet: Yellow Gold | Case Size: 41MM | Movement: Automatic | Condition: Excellent",
-    "notes": "box; Condition: Excellent; Case Size: 41MM"
-  },
-  {
-    "source": "watchconnect",
     "name": "Rolex Day-Date II White Gold 218239 Silver Diamond",
     "url": "https://www.watchconnect.com.au/product/rolex-day-date-ii-white-gold-218239-silver-diamond/",
     "price_aud": 51880.0,
     "year": 2012,
     "reference": "218239",
     "availability": "available",
-    "details": "Rolex Day-Date II White Gold 218239 Silver Diamond | Brand: Rolex | Model: Day-Date 36 | Reference: 218239 | Metal: White Gold | Box: Yes | Papers: Yes | Circa: 2012 | Dial: Silver Diamond | Bracelet: White Gold | Case Size: 41MM | Movement: Automatic | Condition: Excellent",
+    "details": "Rolex Day-Date II White Gold 218239 Silver Diamond | Brand: Rolex | Model: Day-Date II 41 | Reference: 218239 | Metal: White Gold | Box: Yes | Papers: Yes | Circa: 2012 | Dial: Silver Diamond | Bracelet: White Gold | Case Size: 41MM | Movement: Automatic | Condition: Excellent",
     "notes": "box & papers; Condition: Excellent; Case Size: 41MM"
   },
   {
@@ -1505,17 +1450,6 @@
     "availability": "available",
     "details": "Rolex Daytona 16528 Zenith El Primero Movement 40MM 18K Yellow Gold Champagne Diamond Dial | Brand: Rolex | Model: Daytona | Reference: 16528 | Metal: 18K Yellow Gold | Box: Yes | Papers: No | Circa: 1995 | Dial: Champagne Diamond | Bracelet: 18K Yellow Gold | Case Size: 40MM | Movement: Automatic | Condition: Excellent",
     "notes": "box; Condition: Excellent; Case Size: 40MM"
-  },
-  {
-    "source": "watchconnect",
-    "name": "Rolex Explorer 36 124273 2026",
-    "url": "https://www.watchconnect.com.au/product/rolex-explorer-36-124273-2026/",
-    "price_aud": 14880.0,
-    "year": 2026,
-    "reference": "124273",
-    "availability": "available",
-    "details": "Rolex Explorer 36 124273 2026 | Brand: Rolex | Model: Explorer 36 | Reference: 124273 | Metal: Stainless Steel/18K Yellow Gold | Box: Yes | Papers: Yes | Circa: 2026 | Dial: Black | Bracelet: Stainless Steel/18K Yellow Gold | Case Size: 36MM | Movement: Automatic | Condition: New",
-    "notes": "box & papers; Condition: New; Case Size: 36MM"
   },
   {
     "source": "watchconnect",
@@ -1571,6 +1505,17 @@
     "availability": "available",
     "details": "Rolex Lady-Datejust 69178G Pink Coral Diamond | Brand: Rolex | Model: Lady-Datejust | Reference: 69178G | Metal: Yellow Gold | Box: No | Papers: No | Circa: 1988 | Dial: Pink Coral Diamond | Bracelet: Yellow Gold | Case Size: 26MM | Movement: Automatic | Condition: Excellent",
     "notes": "Condition: Excellent; Case Size: 26MM"
+  },
+  {
+    "source": "watchconnect",
+    "name": "Rolex Land-Dweller 40MM 127334 New",
+    "url": "https://www.watchconnect.com.au/product/rolex-land-dweller-40mm-127334-new/",
+    "price_aud": 41880.0,
+    "year": 2025,
+    "reference": "127334",
+    "availability": "available",
+    "details": "Rolex Land-Dweller 40MM 127334 2025 New | Brand: Rolex | Model: Land-Dweller | Reference: 127334 | Metal: Stainless Steel | Box: Yes | Papers: Yes | Circa: Late 2025 | Dial: White | Bracelet: Stainless Steel | Case Size: 40MM | Movement: Automatic | Condition: Unworn",
+    "notes": "unworn; box & papers; Condition: Unworn; Case Size: 40MM"
   },
   {
     "source": "watchconnect",
@@ -1651,17 +1596,6 @@
   },
   {
     "source": "watchconnect",
-    "name": "Rolex Sea-Dweller 126600 50th Anniversary",
-    "url": "https://www.watchconnect.com.au/product/rolex-sea-dweller-126600-50th-anniversary/",
-    "price_aud": 16990.0,
-    "year": 2018,
-    "reference": "126600",
-    "availability": "available",
-    "details": "Rolex Sea-Dweller 126600 SD43 Box and Papers 2021 Automatic 50th Anniversary Model 43mm Sydney, Australia. | Brand: Rolex | Model: Sea-Dweller | Reference: 126600 | Metal: Stainless Steel | Box: Yes | Papers: Yes | Circa: 2018 | Dial: Black | Bracelet: Stainless Steel | Case Size: 43MM | Movement: Automatic | Condition: Excellent",
-    "notes": "box and papers; sydney, australia; box & papers; Condition: Excellent; Case Size: 43MM"
-  },
-  {
-    "source": "watchconnect",
     "name": "Rolex Sea-Dweller 4000 16600",
     "url": "https://www.watchconnect.com.au/product/rolex-sea-dweller-4000-16600/",
     "price_aud": 14950.0,
@@ -1670,6 +1604,17 @@
     "availability": "available",
     "details": "Discover this Rolex Sea-Dweller 4000 ref. 16600 from 1991, offered as a full collector\u2019s set. A classic dive watch with strong presence, original box & papers, and excellent condition. Available in Sydney. | Brand: Rolex | Model: Sea Dweller | Reference: 16600 | Metal: Stainless Steel | Box: Yes | Papers: Yes | Circa: 1991 | Dial: Black | Bracelet: Stainless Steel | Case Size: 40MM | Movement: Automatic | Condition: Very Good",
     "notes": "box & papers; Condition: Very Good; Case Size: 40MM"
+  },
+  {
+    "source": "watchconnect",
+    "name": "Rolex Sea-Dweller Deepsea 116660",
+    "url": "https://www.watchconnect.com.au/product/rolex-sea-dweller-deepsea-116660-3/",
+    "price_aud": 14500.0,
+    "year": 2015,
+    "reference": "116660",
+    "availability": "available",
+    "details": "Rolex Sea-Dweller Deepsea 116660 | Brand: Rolex | Model: Sea-Dweller Deepsea | Reference: 116660 | Metal: Stainless Steel | Box: Yes | Papers: Yes | Circa: 2015 | Dial: Black | Bracelet: Stainless Steel | Case Size: 44MM | Movement: Automatic | Condition: Excellent,",
+    "notes": "box & papers; Condition: Excellent,; Case Size: 44MM"
   },
   {
     "source": "watchconnect",
@@ -1805,6 +1750,17 @@
   },
   {
     "source": "watchconnect",
+    "name": "Seiko Prospex Diver 55th Anniversary SLA043J1 Blue Dial",
+    "url": "https://www.watchconnect.com.au/product/seikoprospexsla043j1/",
+    "price_aud": 4950.0,
+    "year": 2020,
+    "reference": "SLA043J",
+    "availability": "available",
+    "details": "Seiko Prospex Diver SLA043J1 Blue Dial 55th Anniversary of 62MAS The 1965 Diver's Re-Creation | Brand: Seiko | Model: Prospex | Reference: SLA043J | Metal: Stainless Steel | Box: Yes | Papers: Yes | Circa: 2020 | Dial: Blue | Bracelet: Blue and black rubber | Case Size: 39MM | Movement: Automatic | Condition: Near Mint",
+    "notes": "near mint; box & papers; Condition: Near Mint; Case Size: 39MM"
+  },
+  {
+    "source": "watchconnect",
     "name": "TAG Heuer Monaco Dark Lord CBL2180",
     "url": "https://www.watchconnect.com.au/product/tag-heuer-monaco-dark-lord-cbl2180/",
     "price_aud": 8800.0,
@@ -1915,17 +1871,6 @@
   },
   {
     "source": "watchconnect",
-    "name": "Tudor Monarch 39 M2639W1A0U",
-    "url": "https://www.watchconnect.com.au/product/tudor-monarch-39-m2639w1a0u/",
-    "price_aud": 7199.0,
-    "year": 2026,
-    "reference": "M2639W1A0U-0001",
-    "availability": "available",
-    "details": "Tudor Monarch 39 M2639W1A0U | Brand: Tudor | Model: Monarch | Reference: M2639W1A0U-0001 | Metal: Stainless Steel | Box: Yes | Papers: Yes | Circa: 2026 | Dial: Dark Champagne | Bracelet: Stainless Steel | Case Size: 39MM | Movement: Automatic | Condition: As New",
-    "notes": "box & papers; Condition: As New; Case Size: 39MM"
-  },
-  {
-    "source": "watchconnect",
     "name": "Tudor Pelagos 25610TNL Pelagos B&P LHD",
     "url": "https://www.watchconnect.com.au/product/tudor-pelagos-25610tnl-pelagos-bp-lhd/",
     "price_aud": 4950.0,
@@ -1937,17 +1882,6 @@
   },
   {
     "source": "watchconnect",
-    "name": "Tudor Pelagos FXD Chrono 25807KN Redbull",
-    "url": "https://www.watchconnect.com.au/product/tudor-pelagos-fxd-chrono-25807kn-redbull/",
-    "price_aud": 4950.0,
-    "year": 2026,
-    "reference": "25807KN",
-    "availability": "available",
-    "details": "Tudor Pelagos FXD Chrono 25807KN Redbull | Brand: Tudor | Model: Pelagos FXD | Reference: 25807KN | Metal: Carbon | Box: Yes | Papers: Yes | Circa: 2026 | Dial: Black | Bracelet: Textile | Case Size: 43MM | Movement: Automatic | Condition: Unworn",
-    "notes": "unworn; box & papers; Condition: Unworn; Case Size: 43MM"
-  },
-  {
-    "source": "watchconnect",
     "name": "Tudor Pelagos Ultra 2026",
     "url": "https://www.watchconnect.com.au/product/tudor-pelagos-ultra-2026/",
     "price_aud": 8500.0,
@@ -1956,17 +1890,6 @@
     "availability": "available",
     "details": "Tudor Pelagos Ultra 2025 2543C1A7NU Titanium 43MM Mens Watch Sydney Australia | Brand: Tudor | Model: Pelagos | Reference: M2543c1a7nu-0001 | Metal: Titanium | Box: Yes | Papers: Yes | Circa: 2026 | Dial: Black | Bracelet: Titanium | Case Size: 42MM | Movement: Automatic | Condition: Unworn",
     "notes": "unworn; box & papers; Condition: Unworn; Case Size: 42MM"
-  },
-  {
-    "source": "watchconnect",
-    "name": "Tudor Prince Date Blue Dial 92514",
-    "url": "https://www.watchconnect.com.au/product/tudor-prince-date-blue-dial-92514/",
-    "price_aud": 2650.0,
-    "year": 2021,
-    "reference": "92514",
-    "availability": "available",
-    "details": "Tudor Prince Date Blue Dial 92514 Ladies Watch. SYDNEY AUSTRALIA | Brand: Tudor | Model: Prince Date | Reference: 92514 | Metal: Stainless Steel | Box: Yes | Papers: Yes | Circa: 2021 | Dial: Blue | Bracelet: Stainless Steel | Case Size: 23MM | Movement: Automatic | Condition: New with stickers",
-    "notes": "box & papers; Condition: New with stickers; Case Size: 23MM"
   },
   {
     "source": "watchconnect",
@@ -2066,17 +1989,6 @@
     "availability": "available",
     "details": "Zenith El Primero Chronomaster Open Love 03.1230.4021 | Limited edition 1/50 pieces. | Brand: Zenith | Model: El Primero Chronomaster | Reference: 03.1230.4021 | Metal: Stainless Steel | Box: No | Papers: No | Circa: 2005 Approx. | Dial: White & Red | Bracelet: Stainless Steel | Case Size: 37MM | Movement: Automatic | Condition: Very Good",
     "notes": "Condition: Very Good; Case Size: 37MM"
-  },
-  {
-    "source": "watchconnect",
-    "name": "Zenith Elite Moonphase 16.3200.692/01.C832",
-    "url": "https://www.watchconnect.com.au/product/zenith-elite-moonphase-16-3200-692-01-c832/",
-    "price_aud": 5500.0,
-    "year": 2025,
-    "reference": "3200.692/01.C832",
-    "availability": "available",
-    "details": "Zenith Elite Moonphase 16.3200.692/01.C832 | $15,000 RRP | Brand: Zenith | Model: Elite Moonphase | Reference: 16.3200.692/01.C832 | Metal: Stainless Steel | Box: Yes | Papers: Yes | Circa: 2025 | Dial: Silver | Bracelet: Leather | Case Size: 36MM | Movement: Automatic | Condition: Excellent",
-    "notes": "box & papers; Condition: Excellent; Case Size: 36MM"
   },
   {
     "source": "watchconnect",
@@ -2278,17 +2190,6 @@
   },
   {
     "source": "watchbiz",
-    "name": "Omega Seamaster Diver 300M 210.32.42.20.03.001 Blue Dial Stainless Steel 2021 Model",
-    "url": "https://watchbiz.com.au/products/omega-seamaster-diver-300m-210-32-42-20-03-001-blue-dial-stainless-steel-2021-model",
-    "price_aud": 6500.0,
-    "year": 2021,
-    "reference": "210.32.42.20.03.001",
-    "availability": "available",
-    "details": "The Omega Seamaster Diver 300M in the iconic 42mm stainless steel case, featuring the striking laser-engraved blue wave dial that has defined the modern Seamaster line. Powered by the Co-Axial Master Chronometer Calibre 8800, this reference 210.32.42.20.03.001 delivers METAS-certified precision with 15,000 gauss magnetic resistance. It presents in excellent condition.This timepiece comes as a full set with original box, papers, and all accessories. Please note the pillow inside the box is worn out, but everything else is complete and in great shape. Reference: 210.32.42.20.03.001 Year: 2021 Case: 42mm Stainless Steel Bracelet: Stainless Steel Bracelet Dial: Blue Wave Dial Movement: Automatic Co-Axial Master Chronometer Calibre 8800 Condition: Excellent Includes: Full Set - Box (pillow worn), Papers, Accessories Warranty: TWB 12-Month In-House Warranty Viewings by appointment only at our Sydney CBD office. Contact Dmitri on 0423 778 091 or click WhatsApp above to enquire. FREE shipping Australia wide. Finance available.Looking to sell your watch? Reach out HERE | Condition: Excellent | Model Number: 210.32.42.20.03.001 | Year: 2021 | Papers: Yes | Box: Yes | The Watch Business warranty: TWB 12-Month In-House Warranty | Size (Case): 42mm | Material (Case): Stainless Steel | Movement: Automatic | Bracelet: Stainless Steel | Glass: Crystal Sapphire | Dial Type: Blue Wave Dial",
-    "notes": "full set; box & papers; Condition: Excellent; Case Size: 42mm"
-  },
-  {
-    "source": "watchbiz",
     "name": "Omega Speedmaster 'Silver Snoopy' 310.32.42.50.02.001 Stainless Steel 2022 Model",
     "url": "https://watchbiz.com.au/products/omega-speedmaster-silver-snoopy-310-32-42-50-02-001-stainless-steel-2022-model",
     "price_aud": 19500.0,
@@ -2297,6 +2198,28 @@
     "availability": "available",
     "details": "The Omega Speedmaster \u2018Silver Snoopy Award\u2019 50th Anniversary ref. 310.32.42.50.02.001 is one of the most coveted modern Omega references \u2014 a tribute to NASA\u2019s Silver Snoopy Award and the Speedmaster\u2019s role in saving the Apollo 13 crew. The silver-blue dial with Snoopy on the sub-dial at 9 o\u2019clock and the animated caseback make this far more than a standard Moonwatch. It presents in excellent condition.Comes complete as a full set with original Omega box and papers. Reference: 310.32.42.50.02.001 Year: 2022 Case: 42mm Stainless Steel Bracelet: Textile Strap Dial: Silver Dial Movement: manual winding Condition: Excellent Condition Includes: Full Set \u2014 Box & Papers Warranty: Omega International Warranty \u2014 1 Year Remaining Viewings by appointment only at our Sydney CBD office. Contact Dmitri on 0423 778 091 or click WhatsApp above to enquire. FREE shipping Australia wide. Finance available.Looking to sell your watch? Reach out HERE | Condition: Excellent Condition | Model Number: 310.32.42.50.02.001 | Year: 2022 | Papers: Yes | Box: Yes | Warranties: Omega Warranty until 2027 | Size (Case): 42mm | Material (Case): Stainless Steel | Movement: manual winding | Bracelet: Textile Strap | Dial Type: Silver Dial",
     "notes": "full set; box and papers; box & papers; Condition: Excellent Condition; Case Size: 42mm"
+  },
+  {
+    "source": "watchbiz",
+    "name": "Omega Speedmaster 310.30.42.50.01.002 Moonwatch Crystal Sapphire UNWORN 2026",
+    "url": "https://watchbiz.com.au/products/omega-speedmaster-310-30-42-50-01-002-moonwatch-crystal-sapphire-unworn-2026-2",
+    "price_aud": 12500.0,
+    "year": 2026,
+    "reference": "310.30.42.50.01.002",
+    "availability": "available",
+    "details": "The Omega Speedmaster Moonwatch Professional ref. 310.30.42.50.01.002 with a sapphire crystal caseback \u2014 known as the \u2018Sapphire Sandwich\u2019 \u2014 offers the best of both worlds: the classic Moonwatch aesthetic with the ability to view the movement through the exhibition caseback. This 2026 example is brand new and unworn. It presents in unworn condition. This timepiece comes as a full set with original Omega box and papers. Reference: 310.30.42.50.01.002 Year: 2026 Case: 42mm Stainless Steel Bracelet: Stainless Steel Dial: Black Index Dial Movement: Manual Winding Condition: Excellent Condition Includes: Full Set \u2014 Box & Papers Warranty: Omega International Warranty \u2014 5 Years Remaining Viewings by appointment only at our Sydney CBD office. Contact Dmitri on 0423 778 091 or click WhatsApp above to enquire. FREE shipping Australia wide. Finance available. Looking to sell your watch? Reach out HERE | Condition: new unworn | Model Number: 310.30.42.50.01.002 | Year: 2026 | Papers: Yes | Box: Yes | Warranties: Omega Warranty until 2031 | Size (Case): 42mm | Material (Case): Stainless Steel | Movement: Manual Winding | Bracelet: Stainless Steel | Glass: Crystal Sapphire | Dial Type: Black Index Dial",
+    "notes": "full set; box and papers; box & papers; unworn; Condition: new unworn; Case Size: 42mm"
+  },
+  {
+    "source": "watchbiz",
+    "name": "Omega Speedmaster Moonwatch 310.30.42.50.01.001 Hesalite Brand New Available by Order",
+    "url": "https://watchbiz.com.au/products/omega-speedmaster-moonwatch-310-30-42-50-01-001-hesalite-brand-new-available-by-order-1",
+    "price_aud": 10350.0,
+    "year": 2026,
+    "reference": "310.30.42.50.01.001",
+    "availability": "available",
+    "details": "Available By Order - Brand New 2026 Model The legendary Omega Speedmaster Moonwatch reference 310.30.42.50.01.001 is available brand new and unworn by order through The Watch Business. This is the current production 42mm Moonwatch Professional with the iconic hesalite crystal, black dial, stainless steel case, and steel bracelet. The same reference that has been worn on every crewed NASA mission since 1965. How it works: Enquire with us first to confirm current availability A deposit secures your order Your brand new, unworn 2026 model is delivered within approximately 2 weeks The watch arrives as a complete full set with box, booklets, and warranty card dated 2026 As a brand new Omega, this timepiece comes with the balance of the Omega 5 Year International Manufacturer Warranty. Reference: 310.30.42.50.01.001 Year: 2026 (Brand New Unworn) Case: 42mm Stainless Steel Bracelet: Stainless Steel Bracelet Dial: Black Dial Crystal: Hesalite Movement: Manual Winding Condition: Brand New Unworn Includes: Full Set - Box, Booklets, Warranty Card Dated 2026 Warranty: Omega 5 Year International Manufacturer Warranty Contact Dmitri on 0423 778 091 or click WhatsApp above to enquire and confirm availability. Viewings by appointment at our Sydney CBD office once the watch arrives. FREE shipping Australia wide. Finance available. Looking to sell your watch? Reach out HERE | Condition: Brand New Unworn | Model Number: 310.30.42.50.01.001 | Year: 2026 | Papers: Yes | Box: Yes | Warranties: Omega 5 Year International Warranty (Brand New Order) | Size (Case): 42mm | Material (Case): Stainless Steel | Movement: Manual Winding | Bracelet: Stainless Steel | Glass: Hesalite | Dial Type: Black Index Dial",
+    "notes": "full set; unworn; box & papers; Condition: Brand New Unworn; Case Size: 42mm"
   },
   {
     "source": "watchbiz",
@@ -2352,6 +2275,17 @@
     "availability": "available",
     "details": "The Rolex Cosmograph Daytona ref. 126515LN in Everose gold with a black dial on an Oysterflex rubber strap is the modern Daytona at its most wearable \u2014 full precious metal case without the weight and formality of a gold bracelet. The black dial with pink gold sub-register rings creates a striking contrast, and the Cerachrom bezel ensures this Daytona can handle daily wear. It presents in good condition.This example comes as a full set with original Rolex box and papers. Reference: 126515LN Year: 2023 Case: 18k Rose Gold 18k Rose Gold Bracelet: Oysterflex Rubber Dial: Black Dial Movement: Automatic Includes: Full Set \u2014 Box & Papers Warranty: Rolex International Warranty \u2014 2 Years Remaining Viewings by appointment only at our Sydney CBD office. Contact Dmitri on 0423 778 091 or click WhatsApp above to enquire. FREE shipping Australia wide. Finance available.Looking to sell your watch? Reach out HERE | Model Number: 126515LN | Year: 2023 | Papers: Yes | Box: Yes | Warranties: Rolex Warranty balance until 2028 | Size (Case): 18k Rose Gold | Material (Case): 18k Rose Gold | Movement: Automatic | Bracelet: Oysterflex Rubber | Glass: Crystal sapphire | Dial Type: Black Dial",
     "notes": "full set; box and papers; box & papers; Case Size: 18k Rose Gold"
+  },
+  {
+    "source": "watchbiz",
+    "name": "Rolex Datejust 31 Mother of Pearl Diamond Dial 278273 Two Tone Yellow Gold 2020",
+    "url": "https://watchbiz.com.au/products/rolex-datejust-31-mother-of-pearl-diamond-dial-278273-two-tone-yellow-gold-2020-model",
+    "price_aud": 25900.0,
+    "year": 2020,
+    "reference": "278273",
+    "availability": "available",
+    "details": "The Rolex Datejust 31 reference 278273 in classic two-tone stainless steel and 18ct yellow gold, featuring the stunning mother of pearl dial set with factory diamond hour markers. The 31mm Oyster case with fluted yellow gold bezel sits beautifully on the Jubilee bracelet, making this one of the most elegant configurations in the modern Datejust lineup. It presents in excellent condition.This timepiece comes as a full set with original box, papers, and all accessories. Reference: 278273 Year: 2020 Case: 31mm Stainless Steel and 18ct Yellow Gold Bracelet: Jubilee Bracelet Two Tone Dial: Mother of Pearl Diamond Dial Movement: Automatic Condition: Excellent Includes: Full Set - Box, Papers, and Accessories Warranty: TWB 12-Month In-House Warranty Viewings by appointment only at our Sydney CBD office. Contact Dmitri on 0423 778 091 or click WhatsApp above to enquire. FREE shipping Australia wide. Finance available.Looking to sell your watch? Reach out HERE | Condition: Excellent | Model Number: 278273 | Year: 2020 | Papers: Yes | Box: Yes | The Watch Business warranty: 12 Months Warranty | Size (Case): 31mm | Material (Case): Stainless Steel and 18ct Yellow Gold | Movement: Automatic | Bracelet: Two Tone Yellow Gold | Glass: Crystal Sapphire | Dial Type: Mother of Pearl Diamond Dial",
+    "notes": "full set; box & papers; Condition: Excellent; Case Size: 31mm"
   },
   {
     "source": "watchbiz",
@@ -2572,6 +2506,17 @@
     "availability": "available",
     "details": "The Rolex Sky-Dweller ref. 326138 in 18K yellow gold with a silver dial on a leather strap is the ultimate Rolex travel watch \u2014 an annual calendar and dual time zone in a 42mm solid gold case. The silver dial with the distinctive off-centre month display around the chapter ring showcases one of Rolex\u2019s most ingenious complications. It presents in excellent condition.This example comes as a full set with original Rolex box and papers. Reference: 326138 Year: 2014 Case: 42mm Yellow Gold Bracelet: Leather Strap Dial: Silver Roman Dial Movement: Automatic Condition: Excellent Condition Includes: Full Set \u2014 Box & Papers Warranty: TWB 12-Month In-House Warranty Viewings by appointment only at our Sydney CBD office. Contact Dmitri on 0423 778 091 or click WhatsApp above to enquire. FREE shipping Australia wide. Finance available.Looking to sell your watch? Reach out HERE | Condition: Excellent Condition | Model Number: 326138 | Year: 2014 | Papers: Yes | Box: Yes | The Watch Business warranty: 12 Months Warranty | Size (Case): 42mm | Material (Case): Yellow Gold | Movement: Automatic | Bracelet: Leather Strap | Glass: Crystal Sapphire | Dial Type: Silver Roman Dial",
     "notes": "full set; box and papers; box & papers; Condition: Excellent Condition; Case Size: 42mm"
+  },
+  {
+    "source": "watchbiz",
+    "name": "Rolex Sky-Dweller 326934 Black Dial Jubilee Bracelet 2022 Model",
+    "url": "https://watchbiz.com.au/products/rolex-sky-dweller-326934-black-dial-jubilee-bracelet-2022-model",
+    "price_aud": 28900.0,
+    "year": 2022,
+    "reference": "326934",
+    "availability": "available",
+    "details": "The Rolex Sky-Dweller reference 326934 in stainless steel with the white gold fluted bezel is a true traveller's masterpiece. Featuring a striking black dial, annual calendar complication, and second time zone function, all housed within the 42mm Oyster case. Paired with the elegant Jubilee bracelet, this configuration offers the perfect balance of sporty versatility and refined detail. It presents in excellent condition.This timepiece comes as a full set with original box, papers, and all accessories. As a 2022 model, it carries the balance of the Rolex Manufacturer Warranty valid until 2027. Reference: 326934 Year: 2022 Case: 42mm Stainless Steel with 18ct White Gold Fluted Bezel Bracelet: Jubilee Bracelet Stainless Steel Dial: Black Dial Movement: Automatic Condition: Excellent Includes: Full Set - Box, Papers, and Accessories Warranty: Rolex Manufacturer Warranty until 2027 Viewings by appointment only at our Sydney CBD office. Contact Dmitri on 0423 778 091 or click WhatsApp above to enquire. FREE shipping Australia wide. Finance available.Looking to sell your watch? Reach out HERE | Condition: Excellent | Model Number: 326934 | Year: 2022 | Papers: Yes | Box: Yes | Warranties: Rolex Manufacturer Warranty until 2027 | Size (Case): 42mm | Material (Case): Stainless Steel with 18ct White Gold Bezel | Movement: Automatic | Bracelet: Stainless Steel | Glass: Crystal Sapphire | Dial Type: Black Dial",
+    "notes": "full set; box & papers; Condition: Excellent; Case Size: 42mm"
   },
   {
     "source": "watchbiz",
@@ -3015,17 +2960,6 @@
   },
   {
     "source": "watchkingdom",
-    "name": "2015 Rolex Sea-Dweller Black Ref.116600 B00096",
-    "url": "https://watchkingdom.com.au/products/2015-rolex-sea-dweller-black-ref-116600-a000979",
-    "price_aud": 19595.0,
-    "year": 2015,
-    "reference": "116600",
-    "availability": "available",
-    "details": "Brand: Rolex Reference: 116600 Year: 2015 Dial: Black Bracelet: Oyster Material: Steel Diameter: 40mm Condition: Used, Full set\uff08Preowned\uff09",
-    "notes": "full set; preowned; Condition: Used, Full set\uff08Preowned\uff09; Diameter: 40mm"
-  },
-  {
-    "source": "watchkingdom",
     "name": "2015 Rolex Sea-Dweller Deepsea Ref. 116660 A001011",
     "url": "https://watchkingdom.com.au/products/2015-rolex-seadweller-deepsea-ref-116660-a001011",
     "price_aud": 17995.0,
@@ -3054,8 +2988,8 @@
     "year": 2017,
     "reference": "5196J-001",
     "availability": "available",
-    "details": "Brand: Patek Philippe Reference: 5196J-001 Year: 2017 Dial: White Bracelet: Leather Material: Yellow gold Diameter: 37 mm Condition: Used, Full Set (Preowned)",
-    "notes": "full set; preowned; Condition: Used, Full Set (Preowned); Diameter: 37 mm"
+    "details": "Brand: Patek Philippe Reference: 5196J-001 Year: 2017 Dial: White Bracelet: Leather Material: Yellow gold Diameter: 40mm Condition: Used, Full Set (Preowned)",
+    "notes": "full set; preowned; Condition: Used, Full Set (Preowned); Diameter: 40mm"
   },
   {
     "source": "watchkingdom",
@@ -3334,17 +3268,6 @@
   },
   {
     "source": "watchkingdom",
-    "name": "2021 Rolex Datejust 41 Champagne Diamonds Dial Fluted Oyster Ref. 126333 B00062",
-    "url": "https://watchkingdom.com.au/products/2021-rolex-datejust-41-champagne-diamonds-dial-fluted-oyster-ref-126333-b00062",
-    "price_aud": 27995.0,
-    "year": 2021,
-    "reference": "126333",
-    "availability": "available",
-    "details": "Brand: Rolex Reference: 126333 Year: 2021 Dial: Champagne Bracelet: Oyster Material: Steel/YG Diameter: 41mm Condition: Used, Full Set (Preowned)",
-    "notes": "full set; preowned; Condition: Used, Full Set (Preowned); Diameter: 41mm"
-  },
-  {
-    "source": "watchkingdom",
     "name": "2021 Rolex Daytona \"Paul Newman\" Ref.116518LN A001301",
     "url": "https://watchkingdom.com.au/products/2021-rolex-daytona-paul-newman-ref-116518ln-a001301",
     "price_aud": 72995.0,
@@ -3598,13 +3521,13 @@
   },
   {
     "source": "watchkingdom",
-    "name": "2023 Patek Philippe Calatrava Ref.522G-001 A001431",
+    "name": "2023 Patek Philippe Calatrava Ref.5226G-001 A001431",
     "url": "https://watchkingdom.com.au/products/2023-patek-philippe-ref-522g-001-a001431",
     "price_aud": 56995.0,
     "year": 2023,
-    "reference": "522G-001",
+    "reference": "5226G-001",
     "availability": "available",
-    "details": "Brand: Patek Philippe Reference: 522G-001 Year: 2023 Dial: Black Bracelet: Leather Material: White Gold Diameter: 40mm Condition: Used, Full Set (Preowned)",
+    "details": "Brand: Patek Philippe Reference: 5226G-001 Year: 2023 Dial: Black Bracelet: Leather Material: White Gold Diameter: 40mm Condition: Used, Full Set (Preowned)",
     "notes": "full set; preowned; Condition: Used, Full Set (Preowned); Diameter: 40mm"
   },
   {
@@ -5149,6 +5072,17 @@
   },
   {
     "source": "gpwatches",
+    "name": "Black Bay 54 Blue Ref 79000B 2026",
+    "url": "https://gpwatches.com.au/products/black-bay-54-blue-ref-79000b-2026",
+    "price_aud": 6630.0,
+    "year": 2026,
+    "reference": "79000B",
+    "availability": "available",
+    "details": "Tudor\u2019s newest Black Bay 54 release Year: 2026 Model: Black Bay 54 Condition: New Dial: Blue Case Material: Stainless Steel Bezel Material: Stainless Steel Bracelet Material: Stainless Steel Case size: 37MM Movement: Automatic Location: Sydney CBD Shipping: Yes Inclusions: Box and Papers",
+    "notes": "box and papers; box & papers; Condition: New; Case Size: 37MM"
+  },
+  {
+    "source": "gpwatches",
     "name": "Black Tie Emperador 18K Yellow Gold Manual Winding Ref 9902",
     "url": "https://gpwatches.com.au/products/black-tie-emperador-18k-yellow-gold-manual-winding-ref-9902",
     "price_aud": 4950.0,
@@ -5157,6 +5091,17 @@
     "availability": "available",
     "details": "Year: 1970s Model: Black Tie Emperador Condition: Excellent Vintage Dial: Black Gloss Case Material: 18K Yellow Gold Bezel Material: 18K Yellow Gold Bracelet Material: Leather Strap + Buckle Case size: 23MM Movement: Manual Winding Location: Sydney CBD Shipping: Yes Inclusions: Watch Only",
     "notes": "watch only; excellent; Condition: Excellent Vintage; Case Size: 23MM"
+  },
+  {
+    "source": "gpwatches",
+    "name": "Calatrava Black Dial 18K Yellow Gold Ref 5000J-001",
+    "url": "https://gpwatches.com.au/products/calatrava-black-dial-18k-yellow-gold-ref-5000j-001",
+    "price_aud": 22950.0,
+    "year": 2001,
+    "reference": "5000J-001",
+    "availability": "available",
+    "details": "Year: 2001 Model: Calatrava Condition: Excellent Dial: Black Case Material: 18K White Gold Bezel Material: 18K Yellow Gold Bracelet Material: Leather + 18K Yellow Gold Deployment Case size: 33.6MM Movement: Automatic Location: Sydney CBD Shipping: Yes Inclusions: Collectors Set: Box and Papers + 2023 Service Papers",
+    "notes": "box and papers; excellent; box & papers; Condition: Excellent; Case Size: 33.6MM"
   },
   {
     "source": "gpwatches",
@@ -5226,6 +5171,17 @@
   },
   {
     "source": "gpwatches",
+    "name": "GMT Master II Rootbeer Ref 126711CHNR 2025",
+    "url": "https://gpwatches.com.au/products/gmt-master-ii-root-beer-ref-126711chnr-2025",
+    "price_aud": 30500.0,
+    "year": 2025,
+    "reference": "126711CHNR",
+    "availability": "available",
+    "details": "Year: 2025 Model: GMT Master II Condition: Near-Mint Dial: Black Case Material: Stainless Steel Bezel Material: 18K Rose Gold Bracelet Material: Stainless Steel/18K Rose Gold Case size: 40MM Movement: Automatic Location: Sydney CBD Shipping: Yes Inclusions: Box and Papers",
+    "notes": "box and papers; mint; box & papers; Condition: Near-Mint; Case Size: 40MM"
+  },
+  {
+    "source": "gpwatches",
     "name": "Golden Ellipse 18K White Gold Ref 4830G 1997",
     "url": "https://gpwatches.com.au/products/golden-ellipse-18k-white-gold-ref-4830g-1997",
     "price_aud": 13000.0,
@@ -5234,17 +5190,6 @@
     "availability": "available",
     "details": "Year: 1997 Model: Golden Ellipse Condition: Excellent Vintage Dial: White Romans Case Material: 18K White Gold Bezel Material: 18K White Gold Bracelet Material: New Leather/Original Strap + 18K WG Buckle Case size: 25.5MM x 23MM Movement: Quartz Location: Sydney CBD Shipping: Yes Inclusions: Watch, Papers, Swing Tag & Patek Philippe Travel Case",
     "notes": "excellent; papers; Condition: Excellent Vintage; Case Size: 25.5MM x 23MM"
-  },
-  {
-    "source": "gpwatches",
-    "name": "Heritage Spring Drive Shunbun Cherry Blossom Ref SBGA413G 2025",
-    "url": "https://gpwatches.com.au/products/heritage-spring-drive-shunbun-cherry-blossom-ref-sbga413g-2025",
-    "price_aud": 8500.0,
-    "year": 2025,
-    "reference": "SBGA413G",
-    "availability": "available",
-    "details": "Year: 2025 Model: Heritage Spring Drive \u2018Shunbun\u2019 Condition: Near Mint Dial: Cherry Blossom Case Material: Titanium Bezel Material: Titanium Bracelet Material: Titanium Case size: 40MM Movement: Spring Drive Location: Sydney CBD Shipping: Yes Inclusions: Box and Papers",
-    "notes": "box and papers; mint; box & papers; Condition: Near Mint; Case Size: 40MM"
   },
   {
     "source": "gpwatches",
@@ -5316,7 +5261,7 @@
     "source": "gpwatches",
     "name": "Masterpiece Chronograph Automatic Ref MP6318 2000",
     "url": "https://gpwatches.com.au/products/masterpiece-chronograph-automatic-ref-mp6318-2000",
-    "price_aud": 2500.0,
+    "price_aud": 1900.0,
     "year": 2000,
     "reference": "MP6318",
     "availability": "available",
@@ -5388,6 +5333,17 @@
     "availability": "available",
     "details": "Year: 2010+ Model: Ronde XL Condition: Excellent Dial: White Romans Case Material: Stainless Steel Bezel Material: Stainless Steel Bracelet Material: Leather Strap + Steel Deployment Buckle Case size: 42MM Movement: Automatic Location: Sydney CBD Shipping: Yes Inclusions: Watch & Pouch",
     "notes": "excellent; Condition: Excellent; Case Size: 42MM"
+  },
+  {
+    "source": "gpwatches",
+    "name": "Santos Carr\u00e9e Large White Romans 18K Yellow Gold Ref 2961 1986",
+    "url": "https://gpwatches.com.au/products/santos-carree-large-white-romans-18k-yellow-gold-ref-2961-1986",
+    "price_aud": 7950.0,
+    "year": 1986,
+    "reference": "1980S",
+    "availability": "available",
+    "details": "Year: 1980s Circa Model: Santos Carr\u00e9e Large Condition: Very Good Vintage (Unpolished) Dial: White Romans Case Material: Stainless Steel Bezel Material: 18K Yellow Gold Bracelet Material: 18K Yellow Gold/Stainless Steel Case size: 29 x 41MM Movement: Automatic Location: Sydney CBD Shipping: Yes Inclusions: Full Set",
+    "notes": "full set; Condition: Very Good Vintage (Unpolished); Case Size: 29 x 41MM"
   },
   {
     "source": "gpwatches",
@@ -5864,17 +5820,6 @@
   },
   {
     "source": "vintagewatchco",
-    "name": "Chopard LUC 1860 Lucent Steel",
-    "url": "https://vintagewatchco.com.au/chopard-luc-1860-lucent-steel-12300.html",
-    "price_aud": 29880.0,
-    "year": 2024,
-    "reference": "168860",
-    "availability": "available",
-    "details": "Stock Code: 153476 | Location: Sydney | Brand: Chopard | Model: 1860 | Reference: 168860 | Metal: Stainless Steel | Movement: Automatic | Circa: 2024 | Box and Papers: Full set | Band: Non-OEM leather | Clasp: OEM Steel pin buckle | Case: 36.5mm ex.crown | Dial: Salmon | Bezel: Steel | Glass: Sapphire crystal | Water Resistant: 3 bar | Condition: Excellent",
-    "notes": "box/papers: Full set; Condition: Excellent; Case: 36.5mm ex.crown"
-  },
-  {
-    "source": "vintagewatchco",
     "name": "Chronoswiss Regulator Tourbillon",
     "url": "https://vintagewatchco.com.au/chronoswiss-regulator-tourbillon.html",
     "price_aud": 49800.0,
@@ -6162,23 +6107,23 @@
   {
     "source": "vintagewatchco",
     "name": "Frederique Constant Classics",
-    "url": "https://vintagewatchco.com.au/frederique-constant-classics.html",
-    "price_aud": 1695.0,
-    "year": null,
-    "reference": "220SS5B2B",
-    "availability": "available",
-    "details": "Brand: Frederique Constant | Stock Code: 147841 | Location: Sydney | Model: CLASSICS Quartz | Reference: FC-220SS5B2B | Case Size: 40mm | Movement: Quartz | Glass: Sapphire crystal",
-    "notes": ""
-  },
-  {
-    "source": "vintagewatchco",
-    "name": "Frederique Constant Classics",
     "url": "https://vintagewatchco.com.au/frederique-constant-classics-10490.html",
     "price_aud": 2350.0,
     "year": null,
     "reference": "296SW5B6B",
     "availability": "available",
     "details": "Brand: Frederique Constant | Stock Code: 147845 | Location: Sydney | Model: QUARTZ CHRONOGRAPH TRIPLE CALENDAR | Reference: FC-296SW5B6B | Case Size: 40mm | Movement: Quartz | Glass: Sapphire crystal",
+    "notes": ""
+  },
+  {
+    "source": "vintagewatchco",
+    "name": "Frederique Constant Classics",
+    "url": "https://vintagewatchco.com.au/frederique-constant-classics.html",
+    "price_aud": 1695.0,
+    "year": null,
+    "reference": "220SS5B2B",
+    "availability": "available",
+    "details": "Brand: Frederique Constant | Stock Code: 147841 | Location: Sydney | Model: CLASSICS Quartz | Reference: FC-220SS5B2B | Case Size: 40mm | Movement: Quartz | Glass: Sapphire crystal",
     "notes": ""
   },
   {
@@ -6250,23 +6195,23 @@
   {
     "source": "vintagewatchco",
     "name": "Frederique Constant Highlife",
-    "url": "https://vintagewatchco.com.au/frederique-constant-highlife-9272.html",
-    "price_aud": 3950.0,
-    "year": null,
-    "reference": "303BLS3NH6B",
-    "availability": "available",
-    "details": "Brand: Frederique Constant | Stock Code: 147848 | Location: Sydney | Model: Highlife Automatic COSC | Reference: FC-303BLS3NH6B | Case Size: 39mm | Movement: Automatic | Glass: Sapphire crystal",
-    "notes": ""
-  },
-  {
-    "source": "vintagewatchco",
-    "name": "Frederique Constant Highlife",
     "url": "https://vintagewatchco.com.au/frederique-constant-highlife-8990.html",
     "price_aud": 4650.0,
     "year": null,
     "reference": "303C4NH2B",
     "availability": "available",
     "details": "Brand: Frederique Constant | Stock Code: 147849 | Location: Sydney | Model: Highlife Automatic COSC | Reference: FC-303C4NH2B | Case Size: 41mm | Movement: Automatic | Glass: Sapphire crystal",
+    "notes": ""
+  },
+  {
+    "source": "vintagewatchco",
+    "name": "Frederique Constant Highlife",
+    "url": "https://vintagewatchco.com.au/frederique-constant-highlife-9272.html",
+    "price_aud": 3950.0,
+    "year": null,
+    "reference": "303BLS3NH6B",
+    "availability": "available",
+    "details": "Brand: Frederique Constant | Stock Code: 147848 | Location: Sydney | Model: Highlife Automatic COSC | Reference: FC-303BLS3NH6B | Case Size: 39mm | Movement: Automatic | Glass: Sapphire crystal",
     "notes": ""
   },
   {
@@ -6414,6 +6359,17 @@
   },
   {
     "source": "vintagewatchco",
+    "name": "Hublot Big Bang Carbon",
+    "url": "https://vintagewatchco.com.au/hublot-big-bang-carbon.html",
+    "price_aud": 8800.0,
+    "year": 2012,
+    "reference": "301.QX.1740.GR",
+    "availability": "available",
+    "details": "Stock Code: 153486 | Location: Sydney | Brand: Hublot | Model: Big Bang \"All Carbon\" | Reference: 301.QX.1740.GR | Metal: Carbon | Movement: Automatic | Circa: 2012 | Box and Papers: Yes | Band: Leather/Rubber | Clasp: Folding | Case: 44mm | Dial: Carbon Fiber | Glass: Sapphire crystal | Water Resistant: 100m | Condition: Very Good",
+    "notes": "box & papers; Condition: Very Good; Case: 44mm"
+  },
+  {
+    "source": "vintagewatchco",
     "name": "Hublot Chronograph White Zebra Big Bang",
     "url": "https://vintagewatchco.com.au/hublot-chronograph-white-zebra-big-bang.html",
     "price_aud": 11850.0,
@@ -6455,17 +6411,6 @@
     "availability": "available",
     "details": "Stock Code: 153411 | Location: Brisbane Tattersall's | Brand: IWC | Metal: Stainless Steel | Movement: Automatic IWC 8541B | Circa: 1960's | Box and Papers: Watch only | Band: Blue fabric | Clasp: Pin Buckle (steel) | Case: 34mm ex.crown | Dial: Blue | Bezel: Steel | Glass: Plexi glass | Water Resistant: Splash proof | Condition: Very Good",
     "notes": "box/papers: Watch only; Condition: Very Good; Case: 34mm ex.crown"
-  },
-  {
-    "source": "vintagewatchco",
-    "name": "IWC Portugieser Yacht Club Orlebar Brown",
-    "url": "https://vintagewatchco.com.au/iwc-portugieser-yacht-club-orlebar-brown-12442.html",
-    "price_aud": 8800.0,
-    "year": 2023,
-    "reference": "IW390704",
-    "availability": "available",
-    "details": "Stock Code: 153725 | Location: Brisbane Tattersall's | Brand: IWC | Model: Yacht Club 'Olebar Brown' | Reference: IW390704 | Metal: Stainless Steel | Movement: Automatic IWC 89361 | Circa: 2023 | Box and Papers: Yes | Band: Blue rubber (OEM) | Clasp: Steel | Case: 44.6mm ex.crown | Dial: Blue | Bezel: Steel | Glass: Sapphire crystal | Water Resistant: 6 bar | Condition: Very Good",
-    "notes": "box & papers; Condition: Very Good; Case: 44.6mm ex.crown"
   },
   {
     "source": "vintagewatchco",
@@ -6558,23 +6503,23 @@
   {
     "source": "vintagewatchco",
     "name": "Mancheront Pacer",
-    "url": "https://vintagewatchco.com.au/mancheront-pacer-8999.html",
-    "price_aud": 1100.0,
-    "year": null,
-    "reference": "77000CN",
-    "availability": "available",
-    "details": "Brand: Mancheront | Stock Code: 147861 | Location: Sydney | Model: Pacer | Reference: 77000CN | Case Size: 41mm | Movement: Automatic | Glass: Sapphire crystal | Water Resistant: 100m",
-    "notes": ""
-  },
-  {
-    "source": "vintagewatchco",
-    "name": "Mancheront Pacer",
     "url": "https://vintagewatchco.com.au/mancheront-pacer.html",
     "price_aud": 1100.0,
     "year": null,
     "reference": "77000AC",
     "availability": "available",
     "details": "Brand: Mancheront | Stock Code: 147862 | Location: Sydney | Model: Pacer | Reference: 77000AC | Case Size: 41mm | Movement: Automatic | Glass: Sapphire crystal",
+    "notes": ""
+  },
+  {
+    "source": "vintagewatchco",
+    "name": "Mancheront Pacer",
+    "url": "https://vintagewatchco.com.au/mancheront-pacer-8999.html",
+    "price_aud": 1100.0,
+    "year": null,
+    "reference": "77000CN",
+    "availability": "available",
+    "details": "Brand: Mancheront | Stock Code: 147861 | Location: Sydney | Model: Pacer | Reference: 77000CN | Case Size: 41mm | Movement: Automatic | Glass: Sapphire crystal | Water Resistant: 100m",
     "notes": ""
   },
   {
@@ -6601,7 +6546,7 @@
   },
   {
     "source": "vintagewatchco",
-    "name": "MeisterSinger MeisterSinger International Edition 24 HD",
+    "name": "MeisterSinger MeisterSinger International Edition 24 H D",
     "url": "https://vintagewatchco.com.au/meistersinger-meistersinger-international-edition-24-h-d.html",
     "price_aud": 3600.0,
     "year": 2015,
@@ -7427,23 +7372,23 @@
   {
     "source": "vintagewatchco",
     "name": "Oris Divers Date",
-    "url": "https://vintagewatchco.com.au/oris-divers-date.html",
-    "price_aud": 4400.0,
-    "year": null,
-    "reference": "7795",
-    "availability": "available",
-    "details": "Stock Code: 149978 | Location: Sydney | Brand: Seiko | Model: Divers Date | Reference: 733 7795 4054 | Metal: Stainless Steel | Movement: Automatic | Circa: No | Case: 39mm | Glass: Sapphire crystal | Condition: No",
-    "notes": "Condition: No; Case: 39mm"
-  },
-  {
-    "source": "vintagewatchco",
-    "name": "Oris Divers Date",
     "url": "https://vintagewatchco.com.au/oris-divers-date-11295.html",
     "price_aud": 4400.0,
     "year": null,
     "reference": "7795",
     "availability": "available",
     "details": "Stock Code: 149979 | Location: Sydney | Brand: Oris | Model: Divers Date | Reference: 733 7795 4055 | Metal: Stainless Steel | Movement: Automatic | Circa: No | Case: 39mm | Glass: Sapphire crystal | Condition: No",
+    "notes": "Condition: No; Case: 39mm"
+  },
+  {
+    "source": "vintagewatchco",
+    "name": "Oris Divers Date",
+    "url": "https://vintagewatchco.com.au/oris-divers-date.html",
+    "price_aud": 4400.0,
+    "year": null,
+    "reference": "7795",
+    "availability": "available",
+    "details": "Stock Code: 149978 | Location: Sydney | Brand: Seiko | Model: Divers Date | Reference: 733 7795 4054 | Metal: Stainless Steel | Movement: Automatic | Circa: No | Case: 39mm | Glass: Sapphire crystal | Condition: No",
     "notes": "Condition: No; Case: 39mm"
   },
   {
@@ -7522,6 +7467,17 @@
     "availability": "available",
     "details": "Brand: Oris | Stock Code: 145709 | Location: Sydney | Model: Wings of Hope Limited Edition | Reference: 401 7781 4081 | Movement: Automatic 400 | Glass: Sapphire crystal | Water Resistant: 50m",
     "notes": ""
+  },
+  {
+    "source": "vintagewatchco",
+    "name": "Panerai Marina Militare 1940",
+    "url": "https://vintagewatchco.com.au/panerai-marina-militare-1940.html",
+    "price_aud": 7350.0,
+    "year": 2014,
+    "reference": "PAM00587",
+    "availability": "available",
+    "details": "Stock Code: 153748 | Location: Brisbane Tattersall's | Brand: Panerai | Model: Marina Militare | Reference: PAM00587 | Metal: Stainless Steel | Movement: Hand-wound P.3000 | Circa: 2014 | Box and Papers: Box, scroll & rubber strap | Band: Brown leather (OEM) | Clasp: Steel pin buckle (OEM) | Case: 47mm ex.crown | Dial: Black (sandwich) | Bezel: Steel | Glass: Plexi glass | Water Resistant: 10 bar | Condition: Very Good",
+    "notes": "box/papers: Box, scroll & rubber strap; Condition: Very Good; Case: 47mm ex.crown"
   },
   {
     "source": "vintagewatchco",
@@ -7635,17 +7591,6 @@
   },
   {
     "source": "vintagewatchco",
-    "name": "Rolex Daytona 18ct YG",
-    "url": "https://vintagewatchco.com.au/rolex-daytona-18ct-yg-9944.html",
-    "price_aud": 36800.0,
-    "year": 1999,
-    "reference": "16518",
-    "availability": "available",
-    "details": "Stock Code: 148854 | Location: Brisbane Tattersall's | Brand: Rolex | Model: Daytona | Reference: 16518 | Metal: Yellow Gold | Movement: Automatic 4030 | Circa: 1999 | Box and Papers: Watch & box | Band: Brown leather strap | Clasp: Gold deployant | Case: 40 mm ex. crown | Dial: Champagne (gold) | Bezel: Gold Tachymetre | Glass: Sapphire crystal | Water Resistant: 100 meters | Condition: Good",
-    "notes": "box/papers: Watch & box; Condition: Good; Case: 40 mm ex. crown"
-  },
-  {
-    "source": "vintagewatchco",
     "name": "Rolex Daytona Two Tone Diamond index",
     "url": "https://vintagewatchco.com.au/rolex-daytona-two-tone-diamond-index.html",
     "price_aud": 31800.0,
@@ -7657,25 +7602,25 @@
   },
   {
     "source": "vintagewatchco",
-    "name": "Rolex Explorer 36mm",
-    "url": "https://vintagewatchco.com.au/rolex-explorer-36mm-9973.html",
-    "price_aud": 8650.0,
-    "year": 2006,
-    "reference": "114270",
+    "name": "Rolex Submariner Date",
+    "url": "https://vintagewatchco.com.au/rolex-submariner-date-9532.html",
+    "price_aud": 17900.0,
+    "year": 2014,
+    "reference": "116610LN",
     "availability": "available",
-    "details": "Stock Code: 126548 | Location: Brisbane Tattersall's | Brand: Rolex | Model: Explorer I | Reference: 114270 | Metal: Stainless Steel | Movement: Automatic 3130 | Circa: 2006 | Box and Papers: No - watch only | Band: Steel Oyster bracelet | Clasp: Folded steel clasp | Case: 36mm ex. crown | Dial: Black with Arabic and baton markers | Bezel: Polished steel | Glass: Sapphire crystal | Water Resistant: 100m | Condition: Very Good",
-    "notes": "box/papers: No - watch only; Condition: Very Good; Case: 36mm ex. crown"
+    "details": "Stock Code: 148573 | Location: Brisbane Tattersall's | Brand: Rolex | Model: Submariner | Reference: 116610LN | Metal: Stainless Steel | Movement: Automatic 3135 | Circa: 2014 | Box and Papers: Papers and swing tag | Band: Steel Bracelet | Clasp: Folded steel clasp | Case: 40 mm ex. crown | Dial: Matte black with applied chromalight markers | Bezel: Rotating divers bezel with black ceramic insert | Glass: Sapphire crystal | Water Resistant: 100 meters | Condition: Very Good",
+    "notes": "box/papers: Papers and swing tag; Condition: Very Good; Case: 40 mm ex. crown"
   },
   {
     "source": "vintagewatchco",
-    "name": "Rolex Oyster Perpetual 36mm",
-    "url": "https://vintagewatchco.com.au/rolex-oyster-perpetual-36mm-12360.html",
-    "price_aud": 10850.0,
-    "year": 2011,
-    "reference": "116000",
+    "name": "Rolex Submariner Date Kermit",
+    "url": "https://vintagewatchco.com.au/rolex-submariner-date-kermit-9383.html",
+    "price_aud": 19800.0,
+    "year": 2005,
+    "reference": "116610LV",
     "availability": "available",
-    "details": "Stock Code: 153567 | Location: Brisbane Tattersall's | Brand: Rolex | Model: Oyster Perpetual | Reference: 116000 | Metal: Stainless Steel | Movement: Automatic 3130 | Circa: 2011 | Box and Papers: Box & papers | Band: Steel (Oyster) | Clasp: Machined steel deployant | Case: 36mm ex.crown | Dial: Black | Bezel: Steel (smooth) | Glass: Sapphire crystal | Water Resistant: 10 bar | Condition: Good",
-    "notes": "box/papers: Box & papers; Condition: Good; Case: 36mm ex.crown"
+    "details": "Stock Code: 148241 | Location: Brisbane Tattersall's | Brand: Rolex | Model: Submariner | Reference: 116610LV | Metal: Stainless Steel | Movement: Automatic 3135 | Circa: 2005 | Box and Papers: Papers | Band: Steel Bracelet | Clasp: Folded steel clasp | Case: 40 mm ex. crown | Dial: Black dial with applied luminous markers | Bezel: Aluminium | Glass: Sapphire crystal | Water Resistant: 300 meters | Condition: Very Good",
+    "notes": "box/papers: Papers; Condition: Very Good; Case: 40 mm ex. crown"
   },
   {
     "source": "vintagewatchco",
@@ -7768,17 +7713,6 @@
   {
     "source": "vintagewatchco",
     "name": "SQUALE 'Big Arrow Skin Diver'",
-    "url": "https://vintagewatchco.com.au/squale-big-arrow-skin-diver.html",
-    "price_aud": 2050.0,
-    "year": null,
-    "reference": "SUPERSSABL.PBL",
-    "availability": "available",
-    "details": "Stock Code: 150082 | Location: Sydney | Brand: Squale | Model: Super Squale | Reference: SUPERSSABL.PBL | Metal: Stainless Steel | Movement: Automatic | Circa: No | Case: 38mm | Glass: Sapphire crystal | Condition: No",
-    "notes": "Condition: No; Case: 38mm"
-  },
-  {
-    "source": "vintagewatchco",
-    "name": "SQUALE 'Big Arrow Skin Diver'",
     "url": "https://vintagewatchco.com.au/squale-big-arrow-skin-diver-10323.html",
     "price_aud": 2250.0,
     "year": null,
@@ -7786,6 +7720,17 @@
     "availability": "available",
     "details": "Stock Code: 150086 | Location: Sydney | Brand: Squale | Model: Super Squale | Reference: SUPERSSAGR.AC | Metal: Stainless Steel | Circa: No | Case: 38MM | Glass: Sapphire crystal | Condition: No",
     "notes": "Condition: No; Case: 38MM"
+  },
+  {
+    "source": "vintagewatchco",
+    "name": "SQUALE 'Big Arrow Skin Diver'",
+    "url": "https://vintagewatchco.com.au/squale-big-arrow-skin-diver.html",
+    "price_aud": 2050.0,
+    "year": null,
+    "reference": "SUPERSSABL.PBL",
+    "availability": "available",
+    "details": "Stock Code: 150082 | Location: Sydney | Brand: Squale | Model: Super Squale | Reference: SUPERSSABL.PBL | Metal: Stainless Steel | Movement: Automatic | Circa: No | Case: 38mm | Glass: Sapphire crystal | Condition: No",
+    "notes": "Condition: No; Case: 38mm"
   },
   {
     "source": "vintagewatchco",
@@ -7962,6 +7907,17 @@
     "availability": "available",
     "details": "Stock Code: SSJ019J | Location: Brisbane Arcade | Brand: Seiko | Model: Astron SSJ019J GPS | Reference: 147525 | Metal: Titanium | Movement: Solar | Circa: New | Band: Brown leather strap | Clasp: Three-fold clasp with push button release | Case: 41.5mm ex crown | Dial: Silver dial with applied baton markers | Bezel: Titanium | Glass: Sapphire crystal | Water Resistant: 100 metres | Condition: New",
     "notes": "Condition: New; Case: 41.5mm ex crown"
+  },
+  {
+    "source": "vintagewatchco",
+    "name": "Seiko Diver SLA017",
+    "url": "https://vintagewatchco.com.au/seiko-diver-sla017.html",
+    "price_aud": 5650.0,
+    "year": 2017,
+    "reference": "SLA017",
+    "availability": "available",
+    "details": "Stock Code: 138390 | Location: Brisbane Tattersall's | Brand: Seiko | Model: Diver | Reference: SLA017 | Metal: Stainless Steel | Movement: Automatic | Circa: 2017 | Box and Papers: Yes | Band: Steel | Clasp: Steel deployant | Case: 39mm | Dial: Silver | Bezel: Black aluminium | Glass: Sapphire crystal | Water Resistant: 20 bar | Condition: Very Good",
+    "notes": "box & papers; Condition: Very Good; Case: 39mm"
   },
   {
     "source": "vintagewatchco",
@@ -8900,6 +8856,17 @@
   },
   {
     "source": "vintagewatchco",
+    "name": "TUDOR BLACK BAY Bronze",
+    "url": "https://vintagewatchco.com.au/tudor-black-bay-bronze-12458.html",
+    "price_aud": 3600.0,
+    "year": 2022,
+    "reference": "79250BA",
+    "availability": "available",
+    "details": "Stock Code: 153711 | Location: Sydney | Brand: Tudor | Model: Black Bay Bronze | Reference: 79250BA | Metal: Bronze | Movement: Automatic | Circa: 2022 | Box and Papers: Yes | Band: Alcantara Leather | Clasp: Buckle | Case: 43mm | Dial: Slate | Bezel: Rotating Divers' Bezel | Glass: Sapphire crystal | Water Resistant: 200m | Condition: Very Good",
+    "notes": "box & papers; Condition: Very Good; Case: 43mm"
+  },
+  {
+    "source": "vintagewatchco",
     "name": "Tag Aquaracer Quartz",
     "url": "https://vintagewatchco.com.au/tag-aquaracer-quartz.html",
     "price_aud": 1650.0,
@@ -8973,17 +8940,6 @@
     "reference": "7939A1A0RU",
     "availability": "available",
     "details": "Stock Code: 153733 | Location: Brisbane Tattersall's | Brand: Tudor | Model: Black Bay 58 | Reference: 7939A1A0RU | Metal: Stainless Steel | Movement: Automatic MT5400-U | Circa: 2025 | Box and Papers: Yes | Band: Steel (Tudor Jubilee) | Clasp: Steel (deployant) | Case: 39mm ex.crown | Dial: Red (Burgundy) | Bezel: Red aluminium | Glass: Sapphire crystal | Water Resistant: 20 bar | Condition: Very Good",
-    "notes": "box & papers; Condition: Very Good; Case: 39mm ex.crown"
-  },
-  {
-    "source": "vintagewatchco",
-    "name": "Tudor Black Bay GMT Coke",
-    "url": "https://vintagewatchco.com.au/tudor-black-bay-gmt-coke.html",
-    "price_aud": 5850.0,
-    "year": 2025,
-    "reference": "7939G1A0NRU",
-    "availability": "available",
-    "details": "Stock Code: 153729 | Location: Brisbane Tattersall's | Brand: Tudor | Model: Black Bay 58 GMT | Reference: 7939G1A0NRU | Metal: Stainless Steel | Movement: Automatic | Circa: 2025 | Box and Papers: Yes | Band: Steel | Clasp: Steel deployant (T-fit) | Case: 39mm ex.crown | Dial: Black (gilt-toned) | Bezel: Red/Black aluminum 24 hours | Glass: Sapphire crystal | Water Resistant: 20 bar | Condition: Very Good",
     "notes": "box & papers; Condition: Very Good; Case: 39mm ex.crown"
   },
   {
@@ -9099,17 +9055,6 @@
   {
     "source": "vintagewatchco",
     "name": "U Boat U65",
-    "url": "https://vintagewatchco.com.au/u-boat-u65.html",
-    "price_aud": 3900.0,
-    "year": null,
-    "reference": "3352",
-    "availability": "available",
-    "details": "Brand: U-Boat | Stock Code: 153458 | Location: Sydney | Model: U-65 | Reference: 3352 | Case Size: 44mm | Movement: Quartz | Glass: Sapphire crystal | Water Resistant: 50m",
-    "notes": ""
-  },
-  {
-    "source": "vintagewatchco",
-    "name": "U Boat U65",
     "url": "https://vintagewatchco.com.au/u-boat-u65-12281.html",
     "price_aud": 4100.0,
     "year": null,
@@ -9117,6 +9062,17 @@
     "availability": "available",
     "details": "Stock Code: 153460 | Location: Sydney | Brand: U-Boat | Model: U-65 | Reference: 3355 | Metal: PVD Coated Steel | Movement: Quartz | Circa: No | Case: 44mm | Glass: Sapphire crystal | Water Resistant: 50mm | Condition: No",
     "notes": "Condition: No; Case: 44mm"
+  },
+  {
+    "source": "vintagewatchco",
+    "name": "U Boat U65",
+    "url": "https://vintagewatchco.com.au/u-boat-u65.html",
+    "price_aud": 3900.0,
+    "year": null,
+    "reference": "3352",
+    "availability": "available",
+    "details": "Brand: U-Boat | Stock Code: 153458 | Location: Sydney | Model: U-65 | Reference: 3352 | Case Size: 44mm | Movement: Quartz | Glass: Sapphire crystal | Water Resistant: 50m",
+    "notes": ""
   },
   {
     "source": "vintagewatchco",
@@ -9890,6 +9846,28 @@
   },
   {
     "source": "thewatchgallery",
+    "name": "Grand Seiko ref SBGE257 Steel Spring Drive 40mm Green Dial Sport GMT on Bracelet w/B&P",
+    "url": "https://www.thewatchgallery.com.au/product/grand-seiko-ref-sbge257-steel-spring-drive-40mm-green-dial-sport-gmt-on-bracelet-w-bp/",
+    "price_aud": 36.0,
+    "year": 2020,
+    "reference": "Sport Collection Spring Drive GMT",
+    "availability": "available",
+    "details": "Brand: Grand Seiko | Model: Sport Collection Spring Drive GMT | Stock #: 4830 | Style: Casual Sport | Gender: Mens | Circa: Purchased new November 2020 | Reference #: SBGE257G | Case Material: Stainless steel. | Case Details: 40.5mm round | Strap/bracelet: Original stainless steel | Movement: Spring drive power reserve GMT date cal.9R66 | Dial: Original green | Hands: Original silvered with yellow GMT | Paraphernalia: Complete original box, book and warranty papers set included | Grading: Carefully worn in its life, any marks that may be present can only be found under close inspection, overall a very clean example | Notes: 12 month TWG warranty",
+    "notes": ""
+  },
+  {
+    "source": "thewatchgallery",
+    "name": "Grand Seiko ref SBGJ275G Steel Auto 44mm Blue MOP Dial Sea of Clouds Sport GMT on Bracelet w/B&P",
+    "url": "https://www.thewatchgallery.com.au/product/grand-seiko-ref-sbgj275g-steel-auto-44mm-blue-mop-dial-sea-of-clouds-sport-gmt-on-bracelet-w-bp/",
+    "price_aud": 36.0,
+    "year": 2023,
+    "reference": "Sport Collection Spring Drive GMT Sea of Clouds",
+    "availability": "available",
+    "details": "Brand: Grand Seiko | Model: Sport Collection Spring Drive GMT Sea of Clouds | Stock #: 4831 | Style: Casual Sport | Gender: Mens | Circa: Purchased new October 2023 | Reference #: SBGJ275G | Case Material: Stainless steel. | Case Details: 44.2mm round | Strap/bracelet: Original stainless steel | Movement: Automatic GMT date cal.9S86 | Dial: Original blue mother of pearl 'Sea of Clouds' | Hands: Original silvered with blue GMT | Paraphernalia: Complete original box, warranty card and inspection certificate set included (no instruction book with) | Grading: Carefully worn in its life, any marks that may be present can only be found under close inspection, overall a super sharp example | Notes: 12 month TWG warranty",
+    "notes": ""
+  },
+  {
+    "source": "thewatchgallery",
     "name": "Grand Seiko ref SBGR287 Steel Auto 37mm White Dial Heritage Date on Bracelet w/Box & Book",
     "url": "https://www.thewatchgallery.com.au/product/grand-seiko-ref-sbgr287-steel-auto-37mm-white-dial-heritage-date-on-bracelet-w-box-book/",
     "price_aud": 36.0,
@@ -10550,6 +10528,17 @@
   },
   {
     "source": "thewatchgallery",
+    "name": "Omega ref 21030422003001 Steel Auto 42mm Blue Wave Dial Seamaster 300m Pro on Brac w/B&P",
+    "url": "https://www.thewatchgallery.com.au/product/omega-ref-21030422003001-steel-auto-42mm-blue-wave-dial-seamaster-300m-pro-on-brac-w-bp/",
+    "price_aud": 36.0,
+    "year": 2019,
+    "reference": "300M",
+    "availability": "available",
+    "details": "Brand: Omega | Model: Seamaster 300m 42mm | Stock #: 4835 | Style: Sport | Gender: Mens | Circa: Purchased new May 2019 | Reference #: 210.30.42.20.03.001 | Case Material: Stainless steel | Case Details: 42mm round | Strap/bracelet: Original stainless steel | Movement: Automatic date cal.8800 | Dial: Original blue wave pattern | Hands: Original silvered sword | Paraphernalia: Complete original box, book and warranty cards set included | Grading: Carefully worn in its life, no signs of misuse or careless wear, after a recent light polish the appearance is visually sharp and clean | Notes: 12 month TWG warranty",
+    "notes": ""
+  },
+  {
+    "source": "thewatchgallery",
     "name": "Omega ref 21230412001002 Steel Auto 1st Gen Co-Axial 41mm Black Wave Dial Seamaster 300m Pro on Brac",
     "url": "https://www.thewatchgallery.com.au/product/omega-ref-21230412001002-steel-auto-1st-gen-co-axial-41mm-black-wave-dial-seamaster-300m-pro-on-brac/",
     "price_aud": 36.0,
@@ -10601,6 +10590,28 @@
     "reference": "Seamaster Planet Ocean Chronograph",
     "availability": "available",
     "details": "Brand: Omega | Model: Seamaster Planet Ocean Chronograph | Stock #: 4149 | Style: Sport | Gender: Mens | Circa: The warranty card is undated, a 2000s production model | Reference #: 2210.51.00 | Case Material: Stainless steel | Case Details: 45.5mm round | Strap/bracelet: Original stainless steel | Movement: Automatic chronograph date cal.3313 | Dial: Original black with orange numerals | Hands: Original silvered broad arrow | Paraphernalia: Complete original box, book and blank warranty card set included | Grading: Carefully worn in its life, no signs of misuse, after a recent polish the appearance is clean and sharp, overall a fine example of a watch of its age and nature | Notes: 12 month TWG warranty",
+    "notes": ""
+  },
+  {
+    "source": "thewatchgallery",
+    "name": "Omega ref 2225.80.00 Steel Auto 41.5mm Blue Wave Dial Seamaster 300m Chronograph on Brac w/B&P",
+    "url": "https://www.thewatchgallery.com.au/product/omega-ref-2225-80-00-steel-auto-41-5mm-blue-wave-dial-seamaster-300m-chronograph-on-brac-w-bp/",
+    "price_aud": 36.0,
+    "year": 2007,
+    "reference": "300M",
+    "availability": "available",
+    "details": "Brand: Omega | Model: Seamaster 300m Chronograph | Stock #: 4834 | Style: Sport | Gender: Mens | Circa: Purchased new June 2007 | Reference #: 2225.80.00 | Case Material: Stainless steel | Case Details: 41.5mm round | Strap/bracelet: Original stainless steel | Movement: Automatic chronograph date cal.1164 | Dial: Original blue wave pattern | Hands: Original silvered sword | Paraphernalia: Complete original box, book and warranty cards set included | Grading: Worn in its life, no signs of misuse, after a recent polish other than some faint marks on the bezel insert the appearance is again clean and impressive | Notes: 12 month TWG warranty",
+    "notes": ""
+  },
+  {
+    "source": "thewatchgallery",
+    "name": "Omega ref 2232.80.00 Titanium Auto 41mm Blue Wave Dial Bond Seamaster 300m Pro on Brac w/Cards",
+    "url": "https://www.thewatchgallery.com.au/product/omega-ref-2232-80-00-titanium-auto-41mm-blue-wave-dial-bond-seamaster-300m-pro-on-brac-w-cards/",
+    "price_aud": 36.0,
+    "year": null,
+    "reference": "300M",
+    "availability": "available",
+    "details": "Brand: Omega | Model: Seamaster 300m Professional | Stock #: 4833 | Style: Sport | Gender: Mens | Circa: The warranty card is undated | Reference #: 2232.80.00 | Case Material: Titanium | Case Details: 41mm round | Strap/bracelet: Original titanium | Movement: Automatic date cal.1120 | Dial: Original blue wave pattern | Hands: Original silvered sword | Paraphernalia: Original warranty cards and swing tag set included, no box or book with | Grading: Carefully worn in its life, no signs of misuse, polished at some stage (not by us) so the appearance is still clean, overall an excellent example for a piece of its age | Notes: 12 month TWG warranty",
     "notes": ""
   },
   {
@@ -10748,6 +10759,28 @@
   },
   {
     "source": "thewatchgallery",
+    "name": "Omega ref 31130423001005 Steel Manual cal.1861 42mm Speedmaster Moonwatch Chrono on Brac w/B&P",
+    "url": "https://www.thewatchgallery.com.au/product/omega-ref-31130423001005-steel-manual-cal-1861-42mm-speedmaster-moonwatch-chrono-on-brac-w-bp/",
+    "price_aud": 36.0,
+    "year": 2016,
+    "reference": "Speedmaster Moonwatch Chronograph",
+    "availability": "available",
+    "details": "Brand: Omega | Model: Speedmaster Moonwatch Chronograph | Stock #: 4840 | Style: Sport | Gender: Mens | Circa: Purchased new February 2016 | Reference #: 311.30.42.30.01.005 | Case Material: Stainless steel | Case Details: 42mm round | Strap/bracelet: Original stainless steel | Movement: Manual chronograph cal.1861 | Dial: Original black | Hands: Original white | Paraphernalia: Original big box, books, warranty cards, additional straps, tool and loupe set included (the large outer cardboard box is not with) | Grading: Carefully worn in its life, no signs of misuse or any damage, after a recent polish the appearance is again visually clean and sharp | Notes: 12 month TWG warranty",
+    "notes": ""
+  },
+  {
+    "source": "thewatchgallery",
+    "name": "Omega ref 31132403001001 Steel Manual 39.7mm 1st Gen Speedmaster Anniversary FOIS on Strap w/B&P",
+    "url": "https://www.thewatchgallery.com.au/product/omega-ref-31132403001001-steel-manual-39-7mm-1st-gen-speedmaster-anniversary-fois-on-strap-w-bp/",
+    "price_aud": 36.0,
+    "year": 2017,
+    "reference": "Speedmaster 1st Generation Anniversary First Omega In Space",
+    "availability": "available",
+    "details": "Brand: Omega | Model: Speedmaster 1st Generation Anniversary First Omega In Space | Stock #: 4837 | Style: Sport | Gender: Mens | Circa: Purchased new July 2017 | Reference #: 311.32.40.30.01.001 | Case Material: Stainless steel | Case Details: 39.7mm round | Strap/bracelet: Original brown calf with steel tang buckle | Movement: Manual chronograph cal.1861 | Dial: Original black | Hands: Original silvered alpha and white sub-dial | Paraphernalia: Complete original box, book and warranty cards set included | Grading: Carefully worn in its life, no signs of misuse, unpolished since arrival in stock with fine hairline marks noticeable when closely inspected, overall still a fine example | Notes: 12 month TWG warranty",
+    "notes": ""
+  },
+  {
+    "source": "thewatchgallery",
     "name": "Omega ref 31192445101005 Ceramic Auto 44mm Speedmaster Dark Side of the Moon Black on Strap w/B&P",
     "url": "https://www.thewatchgallery.com.au/product/omega-ref-31192445101005-ceramic-auto-44mm-speedmaster-dark-side-of-the-moon-black-on-strap-w-bp/",
     "price_aud": 36.0,
@@ -10788,6 +10821,50 @@
     "reference": "Speedmaster '57 Chronograph",
     "availability": "available",
     "details": "Brand: Omega | Model: Speedmaster '57 Chronograph | Stock #: 4313 | Style: Casual Sport | Gender: Mens | Circa: Purchased new July 2025 | Reference #: 331.20.42.51.02.001 | Case Material: Stainless steel and 18k yellow gold | Case Details: 41.5mm round | Strap/bracelet: Original stainless steel and 18k yellow gold | Movement: Automatic chronograph date cal.9300 | Dial: Original silver | Hands: Original yellow gold alpha | Paraphernalia: Complete original box, book, warranty card and swing tag set included | Grading: Carefully worn in its life, no signs of careless use, if inspected closely light superficial surface marks may be found, overall a sharp clean example on offer | Notes: Balance of 5 year factory warranty",
+    "notes": ""
+  },
+  {
+    "source": "thewatchgallery",
+    "name": "Omega ref 3510.50.00 Steel Auto 39mm Speedmaster Reduced Chrono Bracelet",
+    "url": "https://www.thewatchgallery.com.au/product/omega-ref-3510-50-00-steel-auto-39mm-speedmaster-reduced-chrono-bracelet/",
+    "price_aud": 36.0,
+    "year": null,
+    "reference": "Speedmaster Reduced Chronograph",
+    "availability": "available",
+    "details": "Brand: Omega | Model: Speedmaster Reduced Chronograph | Stock #: 4836 | Style: Sport | Gender: Mens | Circa: No warranty card to date the age, a late 90s/early 2000s production model | Reference #: 3510.50.00 | Case Material: Stainless steel | Case Details: 39mm round | Strap/bracelet: Original stainless steel | Movement: Automatic chronograph cal.3220 | Dial: Original black | Hands: Original white | Paraphernalia: Watch as is, no box, book or warranty cards with | Grading: Carefully worn in its life, no signs of misuse, likely polished at some stage and hardly worn since, overall a fine clean example | Notes: 12 month TWG warranty",
+    "notes": ""
+  },
+  {
+    "source": "thewatchgallery",
+    "name": "Omega ref 3570.50.00 Steel Manual cal.1861 42mm Speedmaster Moonwatch Chrono on Brac w/B&P",
+    "url": "https://www.thewatchgallery.com.au/product/omega-ref-3570-50-00-steel-manual-cal-1861-42mm-speedmaster-moonwatch-chrono-on-brac-w-bp/",
+    "price_aud": 36.0,
+    "year": 2006,
+    "reference": "Speedmaster Moonwatch Chronograph",
+    "availability": "available",
+    "details": "Brand: Omega | Model: Speedmaster Moonwatch Chronograph | Stock #: 4839 | Style: Sport | Gender: Mens | Circa: Purchased new December 2006 | Reference #: 3570.50.00 | Case Material: Stainless steel | Case Details: 42mm round | Strap/bracelet: Original stainless steel | Movement: Manual chronograph cal.1861 | Dial: Original black | Hands: Original white | Paraphernalia: Complete original box, book and warranty cards set included | Grading: Carefully worn in its life, no signs of misuse or any damage, after a recent polish the appearance is again visually clean and sharp | Notes: 12 month TWG warranty",
+    "notes": ""
+  },
+  {
+    "source": "thewatchgallery",
+    "name": "Omega ref 3570.50.00 Steel Manual cal.1861 42mm Speedmaster Moonwatch Chrono on Brac w/Card",
+    "url": "https://www.thewatchgallery.com.au/product/omega-ref-3570-50-00-steel-manual-cal-1861-42mm-speedmaster-moonwatch-chrono-on-brac-w-card/",
+    "price_aud": 36.0,
+    "year": 2012,
+    "reference": "Speedmaster Moonwatch Chronograph",
+    "availability": "available",
+    "details": "Brand: Omega | Model: Speedmaster Moonwatch Chronograph | Stock #: 4838 | Style: Sport | Gender: Mens | Circa: Purchased new December 2012 | Reference #: 3570.50.00 | Case Material: Stainless steel | Case Details: 42mm round | Strap/bracelet: Original stainless steel | Movement: Manual chronograph cal.1861 | Dial: Original black | Hands: Original white | Paraphernalia: Original warranty card with reference number hand written but no serial filled in | Grading: Carefully worn in its life, no signs of careless use, if any marks are present they will only be found under close inspection | Notes: 12 month TWG warranty",
+    "notes": ""
+  },
+  {
+    "source": "thewatchgallery",
+    "name": "Omega ref 42413402003001 Steel Auto 39.5mm Blue Dial De Ville Prestige on Croc with B&P",
+    "url": "https://www.thewatchgallery.com.au/product/omega-ref-42413402003001-steel-auto-39-5mm-blue-dial-de-ville-prestige-on-croc-with-bp/",
+    "price_aud": 36.0,
+    "year": 2023,
+    "reference": "De Ville Prestige",
+    "availability": "available",
+    "details": "Brand: Omega | Model: De Ville Prestige | Stock #: 4832 | Style: Casual Dress | Gender: Mens | Circa: Purchased new January 2023 | Reference #: 424.13.40.20.03.001 | Case Material: Stainless steel. | Case Details: 39.5mm round | Strap/bracelet: Original blue croc with steel tang buckle | Movement: Automatic date cal.2500 | Dial: Original blue | Hands: Original silvered | Paraphernalia: Complete original box, book and warranty cards set included | Grading: Appears to have been carefully worn in its life, unpolished since arrival in stock, if inspected closely minor fine marks may be found but overall a fine example | Notes: 12 month TWG warranty",
     "notes": ""
   },
   {
@@ -11074,17 +11151,6 @@
     "reference": "Luminor Marina",
     "availability": "available",
     "details": "Brand: Panerai | Model: Luminor Marina | Stock #: 4466 | Style: Casual Sport | Gender: Mens | Circa: Purchased new January 2014 | Reference #: PAM00359 | Case Material: Stainless steel | Case Details: 44mm Luminor cushion | Strap/bracelet: Original black rubber with steel tang buckle | Movement: Automatic 3 day date cal.P9000 | Dial: Original black with vintage lume | Hands: Original silvered with vintage lume | Paraphernalia: Complete original box, book, warranty card and papers, additional leather strap, tools and stickers set included | Grading: A clean example after careful wear, no signs of misuse or damage, if any marks are present they will only be found under close inspection | Notes: 12 month TWG warranty",
-    "notes": ""
-  },
-  {
-    "source": "thewatchgallery",
-    "name": "Patek Philippe ref 3520J 18k Yellow Gold Manual 32mm White Roman Dial Hobnail Bezel Calatrava on Strap w/B&P c.1973",
-    "url": "https://www.thewatchgallery.com.au/product/patek-philippe-ref-3520j-18k-yellow-gold-manual-32mm-white-roman-dial-hobnail-bezel-calatrava-on-strap-w-bp-c-1973/",
-    "price_aud": 36.0,
-    "year": 1973,
-    "reference": "Vintage Calatrava",
-    "availability": "available",
-    "details": "Brand: Patek Philippe | Model: Vintage Calatrava | Stock #: 4641 | Style: Vintage Casual | Gender: Mens | Circa: 1973, the piece has been dated by the code on the warranty papers | Reference #: 3520J | Case Details: 32mm round | Case Material: 18k yellow gold | Strap/bracelet: Original PP black croc with aftermarket gold plated tang buckle | Movement: Manual cal.175 | Dial: Original white roman marker | Hands: Original black | Paraphernalia: Original (surface damaged) box, warranty papers and correspondence paperwork between the original owner and Patek set included | Grading: Worn in its life, unpolished since arrival in stock with surface marks and scuffing noticeable across the case consistent with standard wear. No signs of misuse, overall a fine vintage example | Notes: Recently serviced with 12 month TWG warranty",
     "notes": ""
   },
   {
@@ -11683,6 +11749,17 @@
   },
   {
     "source": "thewatchgallery",
+    "name": "Tag Heuer ref CAR2A91 Black Ceramic Cal.01 Auto 45mm Skeleton Dial Carrera Chrono on Bracelet",
+    "url": "https://www.thewatchgallery.com.au/product/tag-heuer-ref-car2a91-black-ceramic-cal-01-auto-45mm-skeleton-dial-carrera-chrono-on-bracelet/",
+    "price_aud": 36.0,
+    "year": null,
+    "reference": "Carrera Chronograph Date Calibre Heuer 01",
+    "availability": "available",
+    "details": "Brand: Tag Heuer | Model: Carrera Chronograph Date Calibre Heuer 01 | Stock #: 4827 | Style: Sport | Gender: Mens | Circa: No warranty card to date the original purchase | Reference #: CAR2A91.BH0742 | Case Material: Black ceramic | Case Details: 45mm round | Strap/bracelet: Original black ceramic | Movement: Automatic chronograph date cal.01 | Dial: Original skeletonized | Hands: Original greyed | Paraphernalia: Watch as is, no box, book or warranty card with | Grading: Worn in its life, though being ceramic is showing minimal signs of wear or age | Notes: 12 month TWG warranty",
+    "notes": ""
+  },
+  {
+    "source": "thewatchgallery",
     "name": "Tag Heuer ref CAS2111 Steel Auto 41mm Silver Blued Trim Dial Heritage Carrera Chrono on Croc w/B&P",
     "url": "https://www.thewatchgallery.com.au/product/tag-heuer-ref-cas2111-steel-auto-41mm-silver-blued-trim-dial-heritage-carrera-chrono-on-croc-w-bp/",
     "price_aud": 36.0,
@@ -11712,6 +11789,17 @@
     "reference": "Monaco Chronograph Date",
     "availability": "available",
     "details": "Brand: Tag Heuer | Model: Monaco Chronograph Date | Stock #: 3800 | Style: Casual Sport | Gender: Mens | Circa: Purchased new July 2016 | Reference #: CAW2110 | Case Material: Stainless steel | Case Details: 39mm square | Strap/bracelet: Original black croc with steel deployment buckle | Movement: Automatic chronograph date cal.12 | Dial: Original black | Hands: Original silvered | Paraphernalia: Complete original box, book and warranty card set included | Grading: Appears to have been worn carefully in its life, unpolished since arrival with no signs of misuse and only fine hairline marks noticeable when closely inspected | Notes: 12 month TWG warranty",
+    "notes": ""
+  },
+  {
+    "source": "thewatchgallery",
+    "name": "Tag Heuer ref CAW2113 Steel Cal.12 Auto 39mm Grey Dial LE Monaco Gulf Chrono on Croc w/B&P",
+    "url": "https://www.thewatchgallery.com.au/product/tag-heuer-ref-caw2113-steel-cal-12-auto-39mm-grey-dial-le-monaco-gulf-chronograph-on-croc-w-bp/",
+    "price_aud": 36.0,
+    "year": 2009,
+    "reference": "Monaco Chronograph Limited Edition Gulf",
+    "availability": "available",
+    "details": "Brand: Tag Heuer | Model: Monaco Chronograph Limited Edition Gulf | Stock #: 4829 | Style: Casual Sport | Gender: Mens | Circa: The warranty card is completly blank, the model is a 2009 limited edition release | Reference #: CAW2113.FC6250 | Case Material: Stainless steel | Case Details: 39mm square | Strap/bracelet: Original grey croc with steel deployment buckle | Movement: Automatic chronograph date cal.12 | Dial: Original grey with light blue and orange racing stripes | Paraphernalia: Complete original box, book and blank warranty card set included | Grading: Appears to have been carefully worn in its life, some light surface marks have been polished out to bring the surface up to a clean impressive appearance | Notes: 12 month TWG warranty",
     "notes": ""
   },
   {
@@ -11789,6 +11877,17 @@
     "reference": "Carrera Chronograph Twin-Time GMT Date",
     "availability": "available",
     "details": "Brand: Tag Heuer | Model: Carrera Chronograph Twin-Time GMT Date | Stock #: 4671 | Style: Sport | Gender: Mens | Circa: Purchased new October 2021 | Reference #: CBG2A1Z.BA0658 | Case Material: Stainless steel with ceramic bezel | Case Details: 45mm round | Strap/bracelet: Original stainless steel | Movement: Automatic chronograph twin-time GMT date cal.Heuer 02 GMT | Dial: Original open worked | Hands: Original silvered with red GMT | Paraphernalia: Complete original box, book and warranty card set included | Grading: Carefully worn in its life, no signs of misuse or damage, after a recent polished the appearance is visually sharp, overall an impressive example on offer | Notes: 12 month TWG warranty",
+    "notes": ""
+  },
+  {
+    "source": "thewatchgallery",
+    "name": "Tag Heuer ref CBN2A1AA Steel Auto 44mm Black Dial Day-Date Carrera Chrono on Rubber w/B&P",
+    "url": "https://www.thewatchgallery.com.au/product/tag-heuer-ref-cbn2a1aa-steel-auto-44mm-black-dial-day-date-carrera-chrono-on-rubber-w-bp/",
+    "price_aud": 36.0,
+    "year": 2023,
+    "reference": "Carrera Chronograph Day-Date",
+    "availability": "available",
+    "details": "Brand: Tag Heuer | Model: Carrera Chronograph Day-Date | Stock #: 4826 | Style: Sport | Gender: Mens | Circa: Purchased new September 2023 | Reference #: CBN2A1AA.FT6228 | Case Material: Stainless steel with ceramic bezel | Case Details: 44mm round | Strap/bracelet: Original black rubber with steel deployment buckle | Movement: Automatic chronograph day-date cal.16 | Dial: Original black | Hands: Original silvered | Paraphernalia: Complete original box, book and warranty card set included | Grading: Carefully worn in its life, no signs of misuse or damage, after a recent polished the appearance is visually sharp, overall an impressive example on offer | Notes: 12 month TWG warranty",
     "notes": ""
   },
   {
@@ -11892,6 +11991,28 @@
   },
   {
     "source": "thewatchgallery",
+    "name": "Tag Heuer ref WAR201E Steel Auto Cal.5 41mm Blue Dial Carrera Day-Date on Bracelet Unworn w/B&P",
+    "url": "https://www.thewatchgallery.com.au/product/tag-heuer-ref-war201e-steel-auto-cal-5-41mm-blue-dial-carrera-day-date-on-bracelet-unworn-w-bp/",
+    "price_aud": 36.0,
+    "year": null,
+    "reference": "WAR201E.BA0723",
+    "availability": "available",
+    "details": "Brand: Tag Heuer | Stock #: 4825 | Style: Casual | Gender: Mens | Circa: The warranty card is undated | Reference #: WAR201E.BA0723 | Case Material: Stainless steel | Case Details: 41mm round | Strap/bracelet: Original stainless steel | Movement: Automatic day-date cal.5 | Dial: Original blue | Hands: Original silvered | Paraphernalia: Complete original box, book, warranty card and stickers set included | Grading: Appears to have never been worn in its life, still plastic wrapped from the original retailer, a plum example | Notes: 12 month TWG warranty",
+    "notes": ""
+  },
+  {
+    "source": "thewatchgallery",
+    "name": "Tag Heuer ref WAS2111 Steel Auto Cal.6 39mm Silver Dial Carrera Date on Bracelet w/B&P",
+    "url": "https://www.thewatchgallery.com.au/product/tag-heuer-ref-was2111-steel-auto-cal-6-39mm-silver-dial-carrera-date-on-bracelet-w-bp/",
+    "price_aud": 36.0,
+    "year": 2013,
+    "reference": "Carrera Date",
+    "availability": "available",
+    "details": "Brand: Tag Heuer | Model: Carrera Date | Stock #: 4824 | Style: Casual | Gender: Mens | Circa: Purchased new April 2013 | Reference #: WAS2111.BA0732 | Case Material: Stainless steel | Case Details: 39mm round | Strap/bracelet: Original stainless steel | Movement: Automatic date cal.6 | Dial: Original silver with blued numerals | Hands: Original blued | Paraphernalia: Complete original box, book and warranty card set included | Grading: Appears to have been worn carefully worn in its life, no signs of misuse or damage, a clean example after a recent polish | Notes: 12 month TWG warranty",
+    "notes": ""
+  },
+  {
+    "source": "thewatchgallery",
     "name": "Tag Heuer ref WAY111Z Steel Quartz 40mm Black Dial Aquaracer Alarm on Bracelet w/Book & Card",
     "url": "https://www.thewatchgallery.com.au/product/tag-heuer-ref-way111z-steel-quartz-40mm-black-dial-aquaracer-alarm-on-bracelet-w-book-card/",
     "price_aud": 36.0,
@@ -11910,6 +12031,17 @@
     "reference": "300M",
     "availability": "available",
     "details": "Brand: Tag Heuer | Model: Aquaracer 300m | Stock #: 4669 | Style: Sport | Gender: Mens | Circa: Purchased new April 2018 | Reference #: WAY201A.FT6142 | Case Material: Stainless steel. | Case Details: 43mm round | Strap/bracelet: Original black rubber (yellow lined) with steel deployment buckle | Movement: Automatic date cal.5 | Dial: Original black | Hands: Original silvered | Paraphernalia: Complete original box, book, warranty card and purchase receipt set included | Grading: Carefully worn in its life, no signs of misuse, unpolished since arrival in stock with fine hairline marks only noticeable when closely inspected, overall an impressive example | Notes: 12 month TWG warranty",
+    "notes": ""
+  },
+  {
+    "source": "thewatchgallery",
+    "name": "Tag Heuer ref WAY208F Titanium Auto 43mm Black Dial LE Aquaracer x Bamford on Bracelet Unworn w/B&P",
+    "url": "https://www.thewatchgallery.com.au/product/tag-heuer-ref-way208f-titanium-auto-43mm-black-dial-le-aquaracer-x-bamford-on-bracelet-unworn-w-bp-2/",
+    "price_aud": 36.0,
+    "year": 2022,
+    "reference": "Aquaracer x Bamford Limited Edition",
+    "availability": "available",
+    "details": "Brand: Tag Heuer | Model: Aquaracer x Bamford Limited Edition | Stock #: 4823 | Style: Sport | Gender: Mens | Circa: No date is on the warranty card, a 2022 release model | Reference #: WAY208F.BF0638 | Case Material: Sandblasted titanium | Case Details: 43mm round | Strap/bracelet: Original sandblasted titanium | Movement: Automatic date cal.5 | Dial: Original black with orange trim | Hands: Original orange and grey | Paraphernalia: Complete original box, book, warranty card, Bamford cert and stickers set included | Grading: Appears to be unworn, still shrink wrapped from the original retailer | Notes: 12 month TWG warranty",
     "notes": ""
   },
   {
@@ -11943,6 +12075,17 @@
     "reference": "Carrera Twin-Time",
     "availability": "available",
     "details": "Brand: Tag Heuer | Model: Carrera Twin-Time | Stock #: 4093 | Style: Casual | Gender: Mens | Circa: No warranty card to date the original purchase, a 2000s production model | Reference #: WV2116 | Case Material: Stainless steel | Case Details: 39mm round | Strap/bracelet: Original stainless steel | Movement: Automatic GMT date cal.7 | Dial: Original silver | Hands: Original silvered with blue arrow GMT | Paraphernalia: Watch as is, no box or warranty card with | Grading: Appears to have been worn carefully worn in its life, no signs of misuse or damage, a clean example after a recent polish | Notes: 12 month TWG warranty",
+    "notes": ""
+  },
+  {
+    "source": "thewatchgallery",
+    "name": "Tag Heuer ref WW2110 Steel Auto Cal.6 37mm Black Dial Monaco on Strap",
+    "url": "https://www.thewatchgallery.com.au/product/tag-heuer-ref-ww2110-steel-auto-cal-6-37mm-black-dial-monaco-on-strap/",
+    "price_aud": 36.0,
+    "year": null,
+    "reference": "Monaco",
+    "availability": "available",
+    "details": "Brand: Tag Heuer | Model: Monaco | Stock #: 4828 | Style: Sport | Gender: Mens | Circa: No warranty card to date the original purchase | Reference #: WW2110 | Case Material: Stainless steel. | Case Details: 37mm square | Strap/bracelet: Original new black calf with steel tang buckle | Movement: Automatic date cal.6 | Dial: Original black | Hands: Original silvered | Paraphernalia: Watch as is, no box, book or warranty card with | Grading: Worn in its life, no signs of misuse or damage, after a recent polish the appearance is again visually excellent | Notes: 12 month TWG warranty",
     "notes": ""
   },
   {
