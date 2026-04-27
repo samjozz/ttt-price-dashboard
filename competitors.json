@@ -1530,17 +1530,6 @@
   },
   {
     "source": "watchconnect",
-    "name": "Rolex Explorer II 16570",
-    "url": "https://www.watchconnect.com.au/product/rolex-explorer-ii-16570/",
-    "price_aud": 8990.0,
-    "year": 1996,
-    "reference": "16570",
-    "availability": "available",
-    "details": "Rolex Explorer II 16570 | Brand: Rolex | Model: Explorer | Reference: 16570 | Metal: Stainless Steel | Box: Yes | Papers: No | Circa: 1996 | Dial: Black | Bracelet: Stainless Steel | Case Size: 40MM | Movement: Automatic | Condition: Very Good",
-    "notes": "box; Condition: Very Good; Case Size: 40MM"
-  },
-  {
-    "source": "watchconnect",
     "name": "Rolex Explorer II 226570",
     "url": "https://www.watchconnect.com.au/product/rolex-explorer-ii-226570/",
     "price_aud": 13990.0,
@@ -2451,6 +2440,17 @@
     "availability": "available",
     "details": "The Rolex GMT-Master II reference 116713LN in two-tone stainless steel and 18kt yellow gold, featuring the iconic black dial and black ceramic Cerachrom bezel insert with 24-hour graduated scale. The 40mm Oyster case pairs with the matching two-tone Oyster bracelet for a bold yet versatile look. This 2013 example remains unpolished, preserving its original factory finishing and edges exactly as Rolex intended. It presents in great condition for its age.This timepiece comes as a full set with original box, papers, and all accessories. Reference: 116713LN Year: 2013 Case: 40mm Stainless Steel and 18kt Yellow Gold (Unpolished) Bracelet: Oyster Bracelet Two Tone Dial: Black Dial Movement: Automatic Condition: Great Condition for its Age (Unpolished) Includes: Full Set - Box, Papers, and Accessories Warranty: TWB 12-Month In-House Warranty Viewings by appointment only at our Sydney CBD office. Contact Dmitri on 0423 778 091 or click WhatsApp above to enquire. FREE shipping Australia wide. Finance available.Looking to sell your watch? Reach out HERE | Condition: Great Condition | Model Number: 116713LN | Year: 2013 | Papers: Yes | Box: Yes | The Watch Business warranty: 12 Months Warranty | Size (Case): 40mm | Material (Case): Stainless Steel and 18kt Yellow Gold | Movement: Automatic | Bracelet: Two Tone Yellow Gold | Glass: Crystal Sapphire | Dial Type: Black Dial",
     "notes": "full set; box & papers; Condition: Great Condition; Case Size: 40mm"
+  },
+  {
+    "source": "watchbiz",
+    "name": "Rolex GMT-Master II 126710BLRO 'Pepsi' Jubilee Bracelet 2020 Discontinued",
+    "url": "https://watchbiz.com.au/products/rolex-gmt-master-ii-126710blro-pepsi-jubilee-bracelet-2020-discontinued",
+    "price_aud": 38900.0,
+    "year": 2020,
+    "reference": "126710BLRO",
+    "availability": "available",
+    "details": "Rolex GMT-Master II 126710BLRO 'Pepsi' Jubilee Bracelet 2020 Model The watch presents in excellent condition, The watch comes complete as a full set with box, booklets and a warranty card, The warranty card is dated 2020, 12 Months Warranty Included. Viewings by appointment only at our Sydney Office. All sales are made by contacting us first. Click the WhatsApp Button or the Email Button above to message us directly. Or call Dmitri on 0423778091 We offer FREE shipping Australia wide on all purchases. Finance Available. Looking to sell your watch? Feel free to reach out to us HERE | Condition: Excellent Condition | Model Number: 126710BLRO | Year: 2020 | Papers: Yes | Box: Yes | The Watch Business warranty: 12 Months Warranty | Size (Case): 40mm | Material (Case): Stainless Steel | Movement: Automatic | Bracelet: Stainless Steel | Glass: Crystal Sapphire",
+    "notes": "full set; box & papers; Condition: Excellent Condition; Case Size: 40mm"
   },
   {
     "source": "watchbiz",
@@ -4247,7 +4247,7 @@
   },
   {
     "source": "watchkingdom",
-    "name": "2025 Rolex Daytona 2T Black Diamonds Ref. 126503 B00080",
+    "name": "2025 Rolex Daytona 2T Black Diamonds Dial Ref. 126503 B00080",
     "url": "https://watchkingdom.com.au/products/2025-rolex-daytona-2t-black-diamond-ref-126503-b00080",
     "price_aud": 49500.0,
     "year": 2025,
@@ -4390,17 +4390,6 @@
   },
   {
     "source": "watchkingdom",
-    "name": "2025 Rolex GMT-Master II Zombie Ref. 126713GRNR A000953",
-    "url": "https://watchkingdom.com.au/products/2025-rolex-gmt-master-ii-zombie",
-    "price_aud": 36995.0,
-    "year": 2025,
-    "reference": "126713GRNR",
-    "availability": "available",
-    "details": "Brand: Rolex Reference: 126713GRNR Year: 2025 Dial: Black Bracelet: Jubilee Material: Steel/ Yellow Gold Diameter: 40mm Condition: Unworn , Full set (Preowned)",
-    "notes": "full set; unworn; preowned; Condition: Unworn , Full set (Preowned); Diameter: 40mm"
-  },
-  {
-    "source": "watchkingdom",
     "name": "2025 Rolex Land Dweller White 40 Ref.127334 A001329",
     "url": "https://watchkingdom.com.au/products/2025-rolex-land-dweller-white-40-ref-127334-a001329",
     "price_aud": 42995.0,
@@ -4436,7 +4425,7 @@
     "source": "watchkingdom",
     "name": "2025 Rolex Oyster Perpetual 34 Beige Dial Ref. 124200 B00044",
     "url": "https://watchkingdom.com.au/products/2025-rolex-oyster-perpetual-beige-124200",
-    "price_aud": 15995.0,
+    "price_aud": 14995.0,
     "year": 2025,
     "reference": "124200",
     "availability": "available",
@@ -4885,31 +4874,9 @@
   },
   {
     "source": "watchkingdom",
-    "name": "2026 Rolex GMT-Master II \"Zombie\" 126713GRNR A001445",
-    "url": "https://watchkingdom.com.au/products/2026-rolex-gmt-master-ii-zombie-126713grnr-a001445",
-    "price_aud": 37995.0,
-    "year": 2026,
-    "reference": "126713GRNR",
-    "availability": "available",
-    "details": "Brand: Rolex Reference: 126713GRNR Year: 2026 Dial: Black Bracelet: Jubilee Material: Steel/YG Diameter: 40mm Condition: Unworn, Full Set (Preowned)",
-    "notes": "full set; unworn; preowned; Condition: Unworn, Full Set (Preowned); Diameter: 40mm"
-  },
-  {
-    "source": "watchkingdom",
-    "name": "2026 Rolex GMT-Master II \u2018Rootbeer\u2019 2T RG Ref. 126711CHNR B00099",
-    "url": "https://watchkingdom.com.au/products/2026-rolex-gmt-master-ii-rootbeer-2t-rg-ref-126711chnr-a001449",
-    "price_aud": 36995.0,
-    "year": 2026,
-    "reference": "126711CHNR",
-    "availability": "available",
-    "details": "Brand: Rolex Reference: 126711CHNR Year: 2026 Dial: Black Bracelet: Oyster Material: Steel/RG Diameter: 40mm Condition: Unworn, Full Set (Preowned)",
-    "notes": "full set; unworn; preowned; Condition: Unworn, Full Set (Preowned); Diameter: 40mm"
-  },
-  {
-    "source": "watchkingdom",
     "name": "2026 Rolex Oyster Perpetual 34 Beige Ref.124200 A001332",
     "url": "https://watchkingdom.com.au/products/2026-rolex-oyster-perpetual-34-beige-ref-124200-a001332",
-    "price_aud": 15995.0,
+    "price_aud": 14995.0,
     "year": 2026,
     "reference": "124200",
     "availability": "available",
@@ -4931,7 +4898,7 @@
     "source": "watchkingdom",
     "name": "2026 Rolex Oyster Perpetual 36 Beige Ref. 126000 A001448",
     "url": "https://watchkingdom.com.au/products/2026-rolex-oyster-perpetual-36-beige-126000",
-    "price_aud": 16995.0,
+    "price_aud": 15995.0,
     "year": 2026,
     "reference": "126000",
     "availability": "available",
@@ -5173,7 +5140,7 @@
     "source": "gpwatches",
     "name": "Datejust 31 Black Romans Ref 178240 2019",
     "url": "https://gpwatches.com.au/products/datejust-31-black-romans-ref-178240-2019",
-    "price_aud": 9950.0,
+    "price_aud": 8950.0,
     "year": 2019,
     "reference": "178240",
     "availability": "available",
@@ -5249,23 +5216,23 @@
   {
     "source": "gpwatches",
     "name": "Lady-Datejust 26 18K Yellow Gold Champagne Big Diamond Ref 69173G 1995",
-    "url": "https://gpwatches.com.au/products/lady-datejust-26-18k-yellow-gold-champagne-big-diamond-ref-69173g-1995-copy",
-    "price_aud": 10500.0,
-    "year": 1995,
-    "reference": "69173G",
-    "availability": "available",
-    "details": "Year: 1995 Model: Lady-Datejust 26 Condition: Excellent Vintage Dial: Champagne Diamond Case Material: Stainless Steel Bezel Material: 18K Yellow Gold Bracelet Material: Stainless Steel/18K Yellow Gold Case size: 26MM Movement: Automatic Location: Sydney CBD Shipping: Yes Inclusions: Box and Papers + Original Swing Tag",
-    "notes": "box and papers; excellent; box & papers; Condition: Excellent Vintage; Case Size: 26MM"
-  },
-  {
-    "source": "gpwatches",
-    "name": "Lady-Datejust 26 18K Yellow Gold Champagne Big Diamond Ref 69173G 1995",
     "url": "https://gpwatches.com.au/products/lady-datejust-26-18k-yellow-gold-champagne-big-diamond-ref-69173g-1995",
     "price_aud": 9950.0,
     "year": 1995,
     "reference": "69173G",
     "availability": "available",
     "details": "Year: 1995 Model: Lady-Datejust 26 Condition: Excellent Vintage Dial: Champagne Diamond Case Material: Stainless Steel Bezel Material: 18K Yellow Gold Bracelet Material: Stainless Steel/18K Yellow Gold Case size: 26MM Movement: Automatic Location: Sydney CBD Shipping: Yes Inclusions: Box and Papers",
+    "notes": "box and papers; excellent; box & papers; Condition: Excellent Vintage; Case Size: 26MM"
+  },
+  {
+    "source": "gpwatches",
+    "name": "Lady-Datejust 26 18K Yellow Gold Champagne Big Diamond Ref 69173G 1995",
+    "url": "https://gpwatches.com.au/products/lady-datejust-26-18k-yellow-gold-champagne-big-diamond-ref-69173g-1995-copy",
+    "price_aud": 10500.0,
+    "year": 1995,
+    "reference": "69173G",
+    "availability": "available",
+    "details": "Year: 1995 Model: Lady-Datejust 26 Condition: Excellent Vintage Dial: Champagne Diamond Case Material: Stainless Steel Bezel Material: 18K Yellow Gold Bracelet Material: Stainless Steel/18K Yellow Gold Case size: 26MM Movement: Automatic Location: Sydney CBD Shipping: Yes Inclusions: Box and Papers + Original Swing Tag",
     "notes": "box and papers; excellent; box & papers; Condition: Excellent Vintage; Case Size: 26MM"
   },
   {
@@ -5278,17 +5245,6 @@
     "availability": "available",
     "details": "Year: 1986 Model: Lady-Datejust 26 Condition: Excellent Vintage Dial: Champagne Linen Case Material: Stainless Steel Bezel Material: 18K Yellow Gold Bracelet Material: Stainless Steel/18K Yellow Gold Case size: 26MM Movement: Automatic Location: Sydney CBD Shipping: Yes Inclusions: Watch and Box",
     "notes": "excellent; box; Condition: Excellent Vintage; Case Size: 26MM"
-  },
-  {
-    "source": "gpwatches",
-    "name": "Lady-Datejust 26 Champagne Diamond 18K Yellow Gold President Ref 6917/8",
-    "url": "https://gpwatches.com.au/products/lady-datejust-26-champagne-diamond-18k-yellow-gold-president-ref-6917-8",
-    "price_aud": 14950.0,
-    "year": null,
-    "reference": "1960S",
-    "availability": "available",
-    "details": "Year: 1960s Circa Model: Lady-Datejust 26 'President' Condition: Excellent Vintage Dial: Champagne Diamond Case Material: 18K Yellow Gold Bezel Material: 18K Yellow Gold Bracelet Material: 18K Yellow Gold Case size: 18K Yellow Gold Movement: Automatic Location: Sydney CBD Shipping: Yes Inclusions: Box & Booklets",
-    "notes": "excellent; box; Condition: Excellent Vintage; Case Size: 18K Yellow Gold"
   },
   {
     "source": "gpwatches",
@@ -5875,17 +5831,6 @@
   },
   {
     "source": "vintagewatchco",
-    "name": "Cartier Santos",
-    "url": "https://vintagewatchco.com.au/cartier-santos-12445.html",
-    "price_aud": 8800.0,
-    "year": null,
-    "reference": "2319",
-    "availability": "available",
-    "details": "Stock Code: 153155 | Location: Brisbane Tattersall's | Brand: Cartier | Model: Santos Galbee | Reference: 2319 | Metal: Steel and Gold | Movement: Automatic Cartier 120 | Circa: Recent | Box and Papers: Watch only | Band: Steel & gold | Clasp: Butterfly | Case: 29mm x 41mm ex.crown | Dial: Silver | Bezel: Gold | Glass: Sapphire crystal | Water Resistant: 3 bar | Condition: Very Good",
-    "notes": "box/papers: Watch only; Condition: Very Good; Case: 29mm x 41mm ex.crown"
-  },
-  {
-    "source": "vintagewatchco",
     "name": "Cartier Tank Tri-Colour",
     "url": "https://vintagewatchco.com.au/cartier-tank-tri-colour.html",
     "price_aud": 4250.0,
@@ -5953,17 +5898,6 @@
   {
     "source": "vintagewatchco",
     "name": "Classics Automatic",
-    "url": "https://vintagewatchco.com.au/classics-automatic-9362.html",
-    "price_aud": 2195.0,
-    "year": null,
-    "reference": "303MC5B6",
-    "availability": "available",
-    "details": "Stock Code: 148434 | Location: Sydney | Brand: Frederique Constant | Model: Classics | Reference: FC-303MC5B6 | Metal: Stainless Steel | Movement: Automatic | Circa: No | Band: Leather | Case: Silver Dial | Glass: Sapphire crystal | Water Resistant: 50m | Condition: No",
-    "notes": "Condition: No; Case: Silver Dial"
-  },
-  {
-    "source": "vintagewatchco",
-    "name": "Classics Automatic",
     "url": "https://vintagewatchco.com.au/classics-automatic.html",
     "price_aud": 2895.0,
     "year": null,
@@ -6019,23 +5953,23 @@
   {
     "source": "vintagewatchco",
     "name": "Classics Heart Beat Moonphase",
-    "url": "https://vintagewatchco.com.au/classics-heart-beat-moonphase-8996.html",
-    "price_aud": 3795.0,
-    "year": null,
-    "reference": "335MCGRW4P26",
-    "availability": "available",
-    "details": "Brand: Frederique Constant | Stock Code: 147855 | Location: Sydney | Model: HEART BEAT MOONPHASE DATE | Reference: FC-335MCGRW4P26 | Case Size: 40mm | Movement: Automatic | Glass: Sapphire crystal",
-    "notes": ""
-  },
-  {
-    "source": "vintagewatchco",
-    "name": "Classics Heart Beat Moonphase",
     "url": "https://vintagewatchco.com.au/classics-heart-beat-moonphase.html",
     "price_aud": 3095.0,
     "year": null,
     "reference": "310MC5B6",
     "availability": "available",
     "details": "Brand: Frederique Constant | Stock Code: 147854 | Location: Sydney | Model: HEART BEAT AUTOMATIC | Reference: FC-310MC5B6 | Case Size: 40mm | Movement: Automatic | Glass: Sapphire crystal",
+    "notes": ""
+  },
+  {
+    "source": "vintagewatchco",
+    "name": "Classics Heart Beat Moonphase",
+    "url": "https://vintagewatchco.com.au/classics-heart-beat-moonphase-8996.html",
+    "price_aud": 3795.0,
+    "year": null,
+    "reference": "335MCGRW4P26",
+    "availability": "available",
+    "details": "Brand: Frederique Constant | Stock Code: 147855 | Location: Sydney | Model: HEART BEAT MOONPHASE DATE | Reference: FC-335MCGRW4P26 | Case Size: 40mm | Movement: Automatic | Glass: Sapphire crystal",
     "notes": ""
   },
   {
@@ -6338,17 +6272,6 @@
   {
     "source": "vintagewatchco",
     "name": "Frederique Constant Highlife",
-    "url": "https://vintagewatchco.com.au/frederique-constant-highlife.html",
-    "price_aud": 3950.0,
-    "year": null,
-    "reference": "303BBG3NH6B",
-    "availability": "available",
-    "details": "Brand: Frederique Constant | Stock Code: 147847 | Location: Sydney | Model: HIGHLIFE AUTOMATIC COSC | Reference: FC-303BBG3NH6B | Case Size: 39mm | Movement: Automatic | Glass: Sapphire crystal",
-    "notes": ""
-  },
-  {
-    "source": "vintagewatchco",
-    "name": "Frederique Constant Highlife",
     "url": "https://vintagewatchco.com.au/frederique-constant-highlife-9272.html",
     "price_aud": 3950.0,
     "year": null,
@@ -6370,13 +6293,13 @@
   },
   {
     "source": "vintagewatchco",
-    "name": "Frederique Constant Slim Line Ladies",
-    "url": "https://vintagewatchco.com.au/frederique-constant-slim-line-ladies-8981.html",
-    "price_aud": 1595.0,
+    "name": "Frederique Constant Highlife",
+    "url": "https://vintagewatchco.com.au/frederique-constant-highlife.html",
+    "price_aud": 3950.0,
     "year": null,
-    "reference": "206SW1S6",
+    "reference": "303BBG3NH6B",
     "availability": "available",
-    "details": "Brand: Frederique Constant | Stock Code: 147838 | Location: Sydney | Model: CLASSSICS SLIMLINE LADIES MOONPHASE | Reference: FC-206SW1S6\u200b | Case Size: 30mm | Movement: Quartz | Glass: Sapphire crystal",
+    "details": "Brand: Frederique Constant | Stock Code: 147847 | Location: Sydney | Model: HIGHLIFE AUTOMATIC COSC | Reference: FC-303BBG3NH6B | Case Size: 39mm | Movement: Automatic | Glass: Sapphire crystal",
     "notes": ""
   },
   {
@@ -6388,6 +6311,17 @@
     "reference": "206MPND1S3B",
     "availability": "available",
     "details": "Brand: Frederique Constant | Stock Code: 147837 | Location: Sydney | Model: CLASSICS SLIMLINE LADIES MOONPHASE | Reference: FC-206MPND1S3B | Case Size: 30mm | Movement: Quartz | Glass: Sapphire crystal",
+    "notes": ""
+  },
+  {
+    "source": "vintagewatchco",
+    "name": "Frederique Constant Slim Line Ladies",
+    "url": "https://vintagewatchco.com.au/frederique-constant-slim-line-ladies-8981.html",
+    "price_aud": 1595.0,
+    "year": null,
+    "reference": "206SW1S6",
+    "availability": "available",
+    "details": "Brand: Frederique Constant | Stock Code: 147838 | Location: Sydney | Model: CLASSSICS SLIMLINE LADIES MOONPHASE | Reference: FC-206SW1S6\u200b | Case Size: 30mm | Movement: Quartz | Glass: Sapphire crystal",
     "notes": ""
   },
   {
@@ -7086,17 +7020,6 @@
   {
     "source": "vintagewatchco",
     "name": "ORIS AQUIS DATE",
-    "url": "https://vintagewatchco.com.au/oris-aquis-date-7728.html",
-    "price_aud": 6400.0,
-    "year": null,
-    "reference": "7769",
-    "availability": "available",
-    "details": "Stock Code: 145273 | Location: Sydney | Brand: Oris | Model: ORIS AQUIS Date | Reference: 400 7769 6355 | Metal: Steel and Gold | Movement: CALIBRE 400 | Circa: New | Case: 41.5mm | Glass: Sapphire crystal | Condition: No",
-    "notes": "Condition: No; Case: 41.5mm"
-  },
-  {
-    "source": "vintagewatchco",
-    "name": "ORIS AQUIS DATE",
     "url": "https://vintagewatchco.com.au/oris-aquis-date-7727.html",
     "price_aud": 6600.0,
     "year": null,
@@ -7104,6 +7027,17 @@
     "availability": "available",
     "details": "Stock Code: 145272 | Location: Sydney | Brand: Oris | Model: ORIS AQUIS Date Cal 400 | Reference: 400 7769 6357 | Metal: Steel and Gold | Movement: CALIBRE 400 | Circa: New | Case: 41.5mm | Glass: No | Water Resistant: 300m | Condition: New",
     "notes": "Condition: New; Case: 41.5mm"
+  },
+  {
+    "source": "vintagewatchco",
+    "name": "ORIS AQUIS DATE",
+    "url": "https://vintagewatchco.com.au/oris-aquis-date-7728.html",
+    "price_aud": 6400.0,
+    "year": null,
+    "reference": "7769",
+    "availability": "available",
+    "details": "Stock Code: 145273 | Location: Sydney | Brand: Oris | Model: ORIS AQUIS Date | Reference: 400 7769 6355 | Metal: Steel and Gold | Movement: CALIBRE 400 | Circa: New | Case: 41.5mm | Glass: Sapphire crystal | Condition: No",
+    "notes": "Condition: No; Case: 41.5mm"
   },
   {
     "source": "vintagewatchco",
@@ -7280,17 +7214,6 @@
     "availability": "available",
     "details": "Stock Code: 153859 | Location: Sydney | Brand: Omega | Model: Seamaster 300 | Reference: 210.30.42.20.10.001 | Metal: Stainless Steel | Movement: 8800 Automatic | Circa: 2023 | Box and Papers: Yes | Band: Stainless Steel | Clasp: Daeployant with Divers Extention | Case: 42mm | Dial: Green Waveform | Bezel: Unidirectional Rotating Divers' Bezel with Green Ceramic Insert | Glass: Sapphire crystal | Water Resistant: 300m | Condition: Very Good",
     "notes": "box & papers; Condition: Very Good; Case: 42mm"
-  },
-  {
-    "source": "vintagewatchco",
-    "name": "Omega Speedmaster \"Japan Racing\" MOD",
-    "url": "https://vintagewatchco.com.au/omega-speedmaster-japan-racing-mod.html",
-    "price_aud": 6250.0,
-    "year": 1990,
-    "reference": "3592.50",
-    "availability": "available",
-    "details": "Stock Code: 153702 | Location: Sydney | Brand: Omega | Model: Speedmaster Professional | Reference: 3592.50 | Metal: Stainless Steel | Movement: Manual-wind Chronograph Cal.863 | Circa: 1990's | Box and Papers: Watch Only | Band: Stainless Steel | Clasp: Folding | Case: 42mm | Dial: Japan Racing | Bezel: Tachymetre | Glass: Plexi glass | Water Resistant: 50m | Condition: Very Good",
-    "notes": "box/papers: Watch Only; Condition: Very Good; Case: 42mm"
   },
   {
     "source": "vintagewatchco",
@@ -7822,28 +7745,6 @@
   },
   {
     "source": "vintagewatchco",
-    "name": "Rolex Datejust 26mm Two Tone",
-    "url": "https://vintagewatchco.com.au/rolex-datejust-26mm-two-tone-12353.html",
-    "price_aud": 10350.0,
-    "year": 1989,
-    "reference": "69173G",
-    "availability": "available",
-    "details": "Stock Code: 153291 | Location: Brisbane Tattersall's | Brand: Rolex | Model: Lady Datejust | Reference: 69173G | Metal: Steel and Gold | Movement: Automatic | Circa: 1989 | Box and Papers: Yes | Band: Steel & gold Jjubiliee) | Clasp: Folded steel | Case: 26mm ex.crown | Dial: Champagne (gold) | Bezel: Yellow gold (fluted) | Glass: Sapphire crystal | Water Resistant: 10 bar | Condition: Very Good",
-    "notes": "box & papers; Condition: Very Good; Case: 26mm ex.crown"
-  },
-  {
-    "source": "vintagewatchco",
-    "name": "Rolex Datejust 26mm Two Tone",
-    "url": "https://vintagewatchco.com.au/rolex-datejust-26mm-two-tone-12314.html",
-    "price_aud": 10250.0,
-    "year": 1991,
-    "reference": "69173G",
-    "availability": "available",
-    "details": "Stock Code: 153288 | Location: Brisbane Tattersall's | Brand: Rolex | Model: Datejust 26 | Reference: 69173G | Metal: Steel and Gold | Movement: Automatic chronometer | Circa: 1991 | Box and Papers: Yes - warranty papers | Band: Jubilee bracelet in steel and gold | Clasp: Folded steel clasp with Rolex coronet | Case: 26mm ex. crown | Dial: Champagne dial with applied diamond markers | Bezel: Fluted yellow gold bezel | Glass: Sapphire crystal | Water Resistant: 100m | Condition: Very Good",
-    "notes": "box & papers; Condition: Very Good; Case: 26mm ex. crown"
-  },
-  {
-    "source": "vintagewatchco",
     "name": "Rolex Datejust 36 \"Silver Jubilee Dial\"",
     "url": "https://vintagewatchco.com.au/rolex-datejust-36-silver-jubilee-dial.html",
     "price_aud": 11850.0,
@@ -7863,17 +7764,6 @@
     "availability": "available",
     "details": "Stock Code: 153072 | Location: Sydney | Brand: Rolex | Model: Datejust | Reference: 126234 | Metal: Stainless Steel | Movement: Automatic 3235 | Circa: 2020 | Box and Papers: Box & card | Band: Steel (Jubilee) | Clasp: Folding steel with coronet | Case: 36 mm ex.crown | Dial: Salmon (Jubilee) | Bezel: White gold (fluted) | Glass: Sapphire crystal | Water Resistant: 100 m (10 bar) | Condition: Very Good",
     "notes": "box/papers: Box & card; Condition: Very Good; Case: 36 mm ex.crown"
-  },
-  {
-    "source": "vintagewatchco",
-    "name": "Rolex Datejust 41",
-    "url": "https://vintagewatchco.com.au/rolex-datejust-41-11388.html",
-    "price_aud": 13250.0,
-    "year": 2020,
-    "reference": "126300",
-    "availability": "available",
-    "details": "Stock Code: 151835 | Location: Brisbane Tattersall's | Brand: Rolex | Model: Datejust 41 | Reference: 126300 | Metal: Stainless Steel | Movement: Self-winding 3235 | Circa: 2020 | Box and Papers: Yes - box, warranty card, white swing tag and booklet | Band: Oyster bracelet | Clasp: Oyster clasp | Case: 41 mm | Dial: Black | Bezel: Steel | Glass: Sapphire crystal | Water Resistant: 100 m | Condition: Very Good",
-    "notes": "box & papers; Condition: Very Good; Case: 41 mm"
   },
   {
     "source": "vintagewatchco",
@@ -7901,7 +7791,7 @@
     "source": "vintagewatchco",
     "name": "Rolex Milgauss",
     "url": "https://vintagewatchco.com.au/rolex-milgauss-14292.html",
-    "price_aud": 123456.0,
+    "price_aud": 12850.0,
     "year": 2010,
     "reference": "116400",
     "availability": "available",
@@ -7918,17 +7808,6 @@
     "availability": "available",
     "details": "Stock Code: 144394 | Location: Sydney | Brand: Rolex | Model: Sky-Dweller | Reference: 326934 | Metal: Stainless Steel | Movement: Automatic | Circa: 2017 | Box and Papers: Yes | Band: Oyster | Clasp: Folding | Case: 42mm | Dial: Blue | Bezel: Ring-Command Fluted Bezel | Glass: Sapphire crystal | Water Resistant: 100m | Condition: Excellent",
     "notes": "box & papers; Condition: Excellent; Case: 42mm"
-  },
-  {
-    "source": "vintagewatchco",
-    "name": "Rolex Submariner Date",
-    "url": "https://vintagewatchco.com.au/rolex-submariner-date-9532.html",
-    "price_aud": 17900.0,
-    "year": 2014,
-    "reference": "116610LN",
-    "availability": "available",
-    "details": "Stock Code: 148573 | Location: Brisbane Tattersall's | Brand: Rolex | Model: Submariner | Reference: 116610LN | Metal: Stainless Steel | Movement: Automatic 3135 | Circa: 2014 | Box and Papers: Papers and swing tag | Band: Steel Bracelet | Clasp: Folded steel clasp | Case: 40 mm ex. crown | Dial: Matte black with applied chromalight markers | Bezel: Rotating divers bezel with black ceramic insert | Glass: Sapphire crystal | Water Resistant: 100 meters | Condition: Very Good",
-    "notes": "box/papers: Papers and swing tag; Condition: Very Good; Case: 40 mm ex. crown"
   },
   {
     "source": "vintagewatchco",
@@ -9962,7 +9841,7 @@
     "year": null,
     "reference": "Santos Galbee LM",
     "availability": "available",
-    "details": "Brand: Cartier | Model: Santos Galbee LM | Stock #: 4771 | Style: Casual | Gender: Ladies or Men\u2019s | Circa: The warranty papers are blank | Reference #: W20055D6 | Case Material: Stainless steel. | Case Details: 29mm wide | Strap/bracelet: Original stainless steel | Movement: Automatic date | Dial: Original silver guilloch\u00e9 roman | Hands: Original blued | Paraphernalia: Complete original box, books and blank warranty papers set included | Grading: Appears to have been worn carefully worn in its life, no signs of misuse or damage, a clean example after a recent polish | Notes: 12 month TWG warranty",
+    "details": "Brand: Cartier | Model: Santos Galbee LM | Stock #: 4771 | Style: Casual | Gender: Ladies or Men\u2019s | Circa: The warranty papers are blank | Reference #: W20055D6 | Case Material: Stainless steel. | Case Details: 29mm wide | Strap/bracelet: Original stainless steel | Movement: Automatic date | Dial: Original silver guilloch\u00e9 roman, there is some naturally occuring discolouration and spots in the 10 to 1 o'clock outer area | Hands: Original blued | Paraphernalia: Complete original box, books and blank warranty papers set included | Grading: Appears to have been worn carefully worn in its life, no signs of misuse or damage, a clean example after a recent polish | Notes: 12 month TWG warranty",
     "notes": ""
   },
   {
@@ -10513,17 +10392,6 @@
     "reference": "Record Chronometer",
     "availability": "available",
     "details": "Brand: Longines | Model: Record Chronometer | Stock #: 4578 | Style: Casual | Gender: Ladies | Circa: Purchased new November 2025 | Reference #: L2.321.4.96.4 | Case Material: Stainless steel | Case Details: 30mm round | Strap/bracelet: Original blue croc with steel butterfly buckle | Movement: Automatic date cal.L592.4 | Dial: Original blue | Hands: Original silvered | Paraphernalia: Complete original box and warranty cards set included, no instruction book supplied when originally purchased | Grading: Unworn, still plastic shrink wrapped from the original retailer, will suit a new watch buyer | Notes: Balance of 2 year factory warranty",
-    "notes": ""
-  },
-  {
-    "source": "thewatchgallery",
-    "name": "Longines ref L26434514 Steel Quartz 35mm wide Tonneau/Barrel Black Dial Evidenza Chronograph on Bracelet",
-    "url": "https://www.thewatchgallery.com.au/product/longines-ref-l26434514-steel-quartz-35mm-wide-tonneau-barrel-black-dial-evidenza-chronograph-on-bracelet/",
-    "price_aud": 36.0,
-    "year": null,
-    "reference": "Evidenza Chronograph",
-    "availability": "available",
-    "details": "Brand: Longines | Model: Evidenza Chronograph | Stock #: 4804 | Style: Casual | Gender: Ladies or Men\u2019s | Circa: No warranty card to date the original sale, a 2000s model | Reference #: L2.643.4.51.4 | Case Material: Stainless steel | Case Details: 35mm wide tonneau | Strap/bracelet: Original stainless steel | Movement: Quartz chronograph date cal.L650 | Dial: Original black | Hands: Original silvered | Paraphernalia: Watch as is, no box, books or warranty card with | Grading: Carefully worn in its life, no signs of misuse or careless wear, if inspected closely with a eyeglass some minor marks may be found under close inspection, overall an impressive example in the flesh | Notes: 12 month TWG warranty",
     "notes": ""
   },
   {
